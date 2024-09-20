@@ -25,6 +25,7 @@ arrange,colAVal,0
 arrange,colAVal,1
 arrange,colAVal,1
 arrange,colAVal,1
+<<<<<<< HEAD
 arrange,emptyDescText,
 arrange,emptyDescText,
 arrange,emptyDescText,
@@ -43,6 +44,26 @@ arrange,emptyDescText2,
 arrange,emptyDescText2,
 arrange,emptyDescText2,
 arrange,emptyDescText2,
+=======
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+arrange,emptyDescText2,""""""
+>>>>>>> main
 arrange,partiallyEmptyVals,
 arrange,partiallyEmptyVals,
 arrange,partiallyEmptyVals,
@@ -79,7 +100,11 @@ arrange,shuffledColVals,1
 arrange,shuffledColVals,abc
 arrange,shuffledColVals,def
 arrange,shuffledColVals,ghi
+<<<<<<< HEAD
 base64,Base64_encoded,
+=======
+base64,Base64_encoded,9U
+>>>>>>> main
 base64,Base64_encoded,VGV4dCB0byBiZSBlbmNvZGVkLg==
 base64,Field1,
 base64,Field1,Text to be encoded.
@@ -229,10 +254,17 @@ cross tab,1,
 cross tab,1,
 cross tab,1,
 cross tab,1,
+<<<<<<< HEAD
 cross tab,1,
 cross tab,1,
 cross tab,1,
 cross tab,1,
+=======
+cross tab,1,""""""
+cross tab,1,""""""
+cross tab,1,""""""
+cross tab,1,""""""
+>>>>>>> main
 cross tab,1,Aaron Burr
 cross tab,1,Adlai Stevenson
 cross tab,1,Al Gore
@@ -417,6 +449,7 @@ cross tab,2,
 cross tab,2,
 cross tab,2,
 cross tab,2,
+<<<<<<< HEAD
 cross tab,2,
 cross tab,2,
 cross tab,2,
@@ -455,6 +488,46 @@ cross tab,2,
 cross tab,2,
 cross tab,2,
 cross tab,2,
+=======
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+cross tab,2,""""""
+>>>>>>> main
 cross tab,2,Andrew Johnson
 cross tab,2,George Clinton
 cross tab,2,Gerald Ford
@@ -605,6 +678,7 @@ cross tab,3,
 cross tab,3,
 cross tab,3,
 cross tab,3,
+<<<<<<< HEAD
 cross tab,3,
 cross tab,3,
 cross tab,3,
@@ -648,6 +722,51 @@ cross tab,3,
 cross tab,3,
 cross tab,3,
 cross tab,3,
+=======
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+cross tab,3,""""""
+>>>>>>> main
 cross tab,3,Harry S. Truman
 cross tab,Avg_Educational,
 cross tab,Avg_Educational,
@@ -1211,7 +1330,11 @@ cross tab,Avg_General,
 cross tab,Avg_General,
 cross tab,Avg_General,
 cross tab,Avg_General,
+<<<<<<< HEAD
 cross tab,Avg_General,106884.80666666666
+=======
+cross tab,Avg_General,106884.806666667
+>>>>>>> main
 cross tab,Avg_General,84020.17
 cross tab,CountWithNulls_Educational,
 cross tab,CountWithNulls_Educational,
@@ -2498,10 +2621,17 @@ cross tab,Dates,March 4. 1861 - March 4. 1865
 cross tab,Dates,March 4. 1861 - March 4. 1865.abcdMarch 4. 1865 - April 15. 1865
 cross tab,Dates,March 4. 1865 - April 15. 1865
 cross tab,Dates,March 4. 1869 - March 4. 1873
+<<<<<<< HEAD
 cross tab,Dates,March 4. 1869 - March 4. 1877
 cross tab,Dates,March 4. 1869 - March 4. 1877
 cross tab,Dates,March 4. 1873 - November 22. 1875
 cross tab,Dates,March 4. 1873 - November 22. 1875.abcdMarch 4. 1869 - March 4. 1873
+=======
+cross tab,Dates,March 4. 1869 - March 4. 1873.abcdMarch 4. 1873 - November 22. 1875
+cross tab,Dates,March 4. 1869 - March 4. 1877
+cross tab,Dates,March 4. 1869 - March 4. 1877
+cross tab,Dates,March 4. 1873 - November 22. 1875
+>>>>>>> main
 cross tab,Dates,March 4. 1877 - March 4. 1881
 cross tab,Dates,March 4. 1877 - March 4. 1881
 cross tab,Dates,March 4. 1877 - March 4. 1881
@@ -2702,8 +2832,13 @@ cross tab,First_Dates,March 4. 1857 - March 4. 1861
 cross tab,First_Dates,March 4. 1857 - March 4. 1861
 cross tab,First_Dates,March 4. 1861 - April 15. 1865
 cross tab,First_Dates,March 4. 1861 - March 4. 1865
+<<<<<<< HEAD
 cross tab,First_Dates,March 4. 1869 - March 4. 1877
 cross tab,First_Dates,March 4. 1873 - November 22. 1875
+=======
+cross tab,First_Dates,March 4. 1869 - March 4. 1873
+cross tab,First_Dates,March 4. 1869 - March 4. 1877
+>>>>>>> main
 cross tab,First_Dates,March 4. 1877 - March 4. 1881
 cross tab,First_Dates,March 4. 1877 - March 4. 1881
 cross tab,First_Dates,March 4. 1881 - September 19. 1881
@@ -3279,7 +3414,11 @@ cross tab,First_General,
 cross tab,First_General,
 cross tab,First_General,
 cross tab,First_General,
+<<<<<<< HEAD
 cross tab,First_General,116122.75
+=======
+cross tab,First_General,83319.17
+>>>>>>> main
 cross tab,First_General,84020.17
 cross tab,First_Name,
 cross tab,First_Name,
@@ -3440,7 +3579,10 @@ cross tab,First_Name,George Washington
 cross tab,First_Name,Grover Cleveland
 cross tab,First_Name,Grover Cleveland
 cross tab,First_Name,Hannibal Hamlin
+<<<<<<< HEAD
 cross tab,First_Name,Henry Wilson
+=======
+>>>>>>> main
 cross tab,First_Name,James A. Garfield
 cross tab,First_Name,James Buchanan
 cross tab,First_Name,James K. Polk
@@ -3460,6 +3602,10 @@ cross tab,First_Name,Millard Fillmore
 cross tab,First_Name,Millard Fillmore
 cross tab,First_Name,Richard Mentor Johnson
 cross tab,First_Name,Rutherford B. Hayes
+<<<<<<< HEAD
+=======
+cross tab,First_Name,Schuyler Colfax
+>>>>>>> main
 cross tab,First_Name,Thomas A. Hendricks
 cross tab,First_Name,Thomas Jefferson
 cross tab,First_Name,Thomas Jefferson
@@ -3642,8 +3788,13 @@ cross tab,Last_Dates,March 4. 1857 - March 4. 1861
 cross tab,Last_Dates,March 4. 1857 - March 4. 1861
 cross tab,Last_Dates,March 4. 1861 - April 15. 1865
 cross tab,Last_Dates,March 4. 1865 - April 15. 1865
+<<<<<<< HEAD
 cross tab,Last_Dates,March 4. 1869 - March 4. 1873
 cross tab,Last_Dates,March 4. 1869 - March 4. 1877
+=======
+cross tab,Last_Dates,March 4. 1869 - March 4. 1877
+cross tab,Last_Dates,March 4. 1873 - November 22. 1875
+>>>>>>> main
 cross tab,Last_Dates,March 4. 1877 - March 4. 1881
 cross tab,Last_Dates,March 4. 1877 - March 4. 1881
 cross tab,Last_Dates,March 4. 1881 - September 19. 1881
@@ -4219,7 +4370,11 @@ cross tab,Last_General,
 cross tab,Last_General,
 cross tab,Last_General,
 cross tab,Last_General,
+<<<<<<< HEAD
 cross tab,Last_General,121212.5
+=======
+cross tab,Last_General,116122.75
+>>>>>>> main
 cross tab,Last_General,84020.17
 cross tab,Last_Name,
 cross tab,Last_Name,
@@ -4379,6 +4534,10 @@ cross tab,Last_Name,George M. Dallas
 cross tab,Last_Name,George Washington
 cross tab,Last_Name,Grover Cleveland
 cross tab,Last_Name,Grover Cleveland
+<<<<<<< HEAD
+=======
+cross tab,Last_Name,Henry Wilson
+>>>>>>> main
 cross tab,Last_Name,James A. Garfield
 cross tab,Last_Name,James Buchanan
 cross tab,Last_Name,James K. Polk
@@ -4398,7 +4557,10 @@ cross tab,Last_Name,Millard Fillmore
 cross tab,Last_Name,Millard Fillmore
 cross tab,Last_Name,Richard Mentor Johnson
 cross tab,Last_Name,Rutherford B. Hayes
+<<<<<<< HEAD
 cross tab,Last_Name,Schuyler Colfax
+=======
+>>>>>>> main
 cross tab,Last_Name,Theodore Roosevelt
 cross tab,Last_Name,Thomas A. Hendricks
 cross tab,Last_Name,Thomas Jefferson
@@ -4538,7 +4700,10 @@ cross tab,Name,Grover Cleveland
 cross tab,Name,Hannibal Hamlin
 cross tab,Name,Hannibal Hamlin.abcdAndrew Johnson
 cross tab,Name,Henry Wilson
+<<<<<<< HEAD
 cross tab,Name,Henry Wilson.abcdSchuyler Colfax
+=======
+>>>>>>> main
 cross tab,Name,James A. Garfield
 cross tab,Name,James A. Garfield
 cross tab,Name,James Buchanan
@@ -4578,6 +4743,10 @@ cross tab,Name,Richard Mentor Johnson
 cross tab,Name,Rutherford B. Hayes
 cross tab,Name,Rutherford B. Hayes
 cross tab,Name,Schuyler Colfax
+<<<<<<< HEAD
+=======
+cross tab,Name,Schuyler Colfax.abcdHenry Wilson
+>>>>>>> main
 cross tab,Name,Theodore Roosevelt
 cross tab,Name,Thomas A. Hendricks
 cross tab,Name,Thomas A. Hendricks
@@ -5909,7 +6078,11 @@ cross tab,Total,
 cross tab,Total,
 cross tab,Total,
 cross tab,Total,
+<<<<<<< HEAD
 cross tab,Total,201825.66999999998
+=======
+cross tab,Total,201825.67
+>>>>>>> main
 cross tab,Total,506110.75
 cross tab,Total,93232.75
 cross tab,Total,97381.33
@@ -6245,10 +6418,17 @@ cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
+<<<<<<< HEAD
 cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
+=======
+cross tab,Vice_President,""""""
+cross tab,Vice_President,""""""
+cross tab,Vice_President,""""""
+cross tab,Vice_President,""""""
+>>>>>>> main
 cross tab,Vice_President,Aaron Burr George Clinton
 cross tab,Vice_President,Adlai Stevenson
 cross tab,Vice_President,Al Gore
@@ -6475,8 +6655,13 @@ cross tab,XCol_Educational,
 cross tab,XCol_Educational,
 cross tab,XCol_Educational,
 cross tab,XCol_Educational,
+<<<<<<< HEAD
 cross tab,XCol_Educational,0.7546356835785277
 cross tab,XCol_Educational,99.24536431642147
+=======
+cross tab,XCol_Educational,0.754635683578528
+cross tab,XCol_Educational,99.2453643164215
+>>>>>>> main
 cross tab,XCol_Fun_and_Games,
 cross tab,XCol_Fun_and_Games,
 cross tab,XCol_Fun_and_Games,
@@ -6661,9 +6846,15 @@ cross tab,XCol_Fun_and_Games,
 cross tab,XCol_Fun_and_Games,
 cross tab,XCol_Fun_and_Games,
 cross tab,XCol_Fun_and_Games,
+<<<<<<< HEAD
 cross tab,XCol_Fun_and_Games,22.374791339733274
 cross tab,XCol_Fun_and_Games,23.522496177646577
 cross tab,XCol_Fun_and_Games,25.64675050863865
+=======
+cross tab,XCol_Fun_and_Games,22.3747913397333
+cross tab,XCol_Fun_and_Games,23.5224961776466
+cross tab,XCol_Fun_and_Games,25.6467505086387
+>>>>>>> main
 cross tab,XCol_Fun_and_Games,28.4559619739815
 cross tab,XCol_General,
 cross tab,XCol_General,
@@ -6851,8 +7042,13 @@ cross tab,XCol_General,
 cross tab,XCol_General,
 cross tab,XCol_General,
 cross tab,XCol_General,
+<<<<<<< HEAD
 cross tab,XCol_General,20.76240319413186
 cross tab,XCol_General,79.23759680586815
+=======
+cross tab,XCol_General,20.7624031941319
+cross tab,XCol_General,79.2375968058682
+>>>>>>> main
 cross tab,XRow_Educational,
 cross tab,XRow_Educational,
 cross tab,XRow_Educational,
@@ -7039,8 +7235,13 @@ cross tab,XRow_Educational,
 cross tab,XRow_Educational,
 cross tab,XRow_Educational,
 cross tab,XRow_Educational,
+<<<<<<< HEAD
 cross tab,XRow_Educational,0.6465860976963568
 cross tab,XRow_Educational,15.664703822236536
+=======
+cross tab,XRow_Educational,0.646586097696357
+cross tab,XRow_Educational,15.6647038222365
+>>>>>>> main
 cross tab,XRow_Fun_and_Games,
 cross tab,XRow_Fun_and_Games,
 cross tab,XRow_Fun_and_Games,
@@ -7225,10 +7426,17 @@ cross tab,XRow_Fun_and_Games,
 cross tab,XRow_Fun_and_Games,
 cross tab,XRow_Fun_and_Games,
 cross tab,XRow_Fun_and_Games,
+<<<<<<< HEAD
 cross tab,XRow_Fun_and_Games,100.0
 cross tab,XRow_Fun_and_Games,20.9787245182996
 cross tab,XRow_Fun_and_Games,58.369928859891814
 cross tab,XRow_Fun_and_Games,99.35341390230364
+=======
+cross tab,XRow_Fun_and_Games,100
+cross tab,XRow_Fun_and_Games,20.9787245182996
+cross tab,XRow_Fun_and_Games,58.3699288598918
+cross tab,XRow_Fun_and_Games,99.3534139023036
+>>>>>>> main
 cross tab,XRow_General,
 cross tab,XRow_General,
 cross tab,XRow_General,
@@ -7416,8 +7624,12 @@ cross tab,XRow_General,
 cross tab,XRow_General,
 cross tab,XRow_General,
 cross tab,XRow_General,41.6300711401082
+<<<<<<< HEAD
 cross tab,XRow_General,63.35657165946386
 cross tab,_Null_,
+=======
+cross tab,XRow_General,63.3565716594639
+>>>>>>> main
 cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
@@ -7562,6 +7774,10 @@ cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
+<<<<<<< HEAD
+=======
+cross tab,_Null_,""""""
+>>>>>>> main
 cross tab,_Null_,Abraham Lincoln
 cross tab,_Null_,Andrew Jackson
 cross tab,_Null_,Andrew Johnson
@@ -7749,6 +7965,7 @@ cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
+<<<<<<< HEAD
 cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
@@ -7792,6 +8009,51 @@ cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
+=======
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+cross tab,_____________,""""""
+>>>>>>> main
 cross tab,_____________,John Adams
 cross tab,presidentNo,
 cross tab,presidentNo,
@@ -8749,6 +9011,42 @@ dynamic rename,City,ARVADA
 dynamic rename,City,ARVADA
 dynamic rename,City,ARVADA
 dynamic rename,City,ARVADA
+<<<<<<< HEAD
+=======
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+dynamic rename,City,ARVADA
+>>>>>>> main
 dynamic rename,City,AURORA
 dynamic rename,City,AURORA
 dynamic rename,City,AURORA
@@ -8765,10 +9063,83 @@ dynamic rename,City,AURORA
 dynamic rename,City,AURORA
 dynamic rename,City,AURORA
 dynamic rename,City,AURORA
+<<<<<<< HEAD
+=======
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,AURORA
+dynamic rename,City,Arvada
+dynamic rename,City,Arvada
+dynamic rename,City,Arvada
+dynamic rename,City,Aurora
+dynamic rename,City,Aurora
+dynamic rename,City,Aurora
+dynamic rename,City,BOULDER
+dynamic rename,City,BOULDER
+dynamic rename,City,BOULDER
+>>>>>>> main
 dynamic rename,City,BOULDER
 dynamic rename,City,BOULDER
 dynamic rename,City,BROOMFIELD
 dynamic rename,City,BROOMFIELD
+<<<<<<< HEAD
 dynamic rename,City,CO
 dynamic rename,City,CO
 dynamic rename,City,CO
@@ -9039,6 +9410,140 @@ dynamic rename,City,CO
 dynamic rename,City,CO
 dynamic rename,City,CO
 dynamic rename,City,CO
+=======
+dynamic rename,City,BROOMFIELD
+dynamic rename,City,BROOMFIELD
+dynamic rename,City,BROOMFIELD
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+dynamic rename,City,DENVER
+>>>>>>> main
 dynamic rename,City,DENVER
 dynamic rename,City,DENVER
 dynamic rename,City,DENVER
@@ -9087,6 +9592,15 @@ dynamic rename,City,DENVER
 dynamic rename,City,DENVER
 dynamic rename,City,ENGLEWOOD
 dynamic rename,City,ENGLEWOOD
+<<<<<<< HEAD
+=======
+dynamic rename,City,ENGLEWOOD
+dynamic rename,City,ENGLEWOOD
+dynamic rename,City,ENGLEWOOD
+dynamic rename,City,ENGLEWOOD
+dynamic rename,City,ENGLEWOOD
+dynamic rename,City,ENGLEWOOD
+>>>>>>> main
 dynamic rename,City,LITTLETON
 dynamic rename,City,LITTLETON
 dynamic rename,City,LITTLETON
@@ -9095,8 +9609,43 @@ dynamic rename,City,LITTLETON
 dynamic rename,City,LITTLETON
 dynamic rename,City,LITTLETON
 dynamic rename,City,LITTLETON
+<<<<<<< HEAD
 dynamic rename,City,WESTMINSTER
 dynamic rename,City,WESTMINSTER
+=======
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,LITTLETON
+dynamic rename,City,PARKER
+dynamic rename,City,PARKER
+dynamic rename,City,PARKER
+dynamic rename,City,PARKER
+dynamic rename,City,PARKER
+dynamic rename,City,PARKER
+dynamic rename,City,WESTMINSTER
+dynamic rename,City,WESTMINSTER
+dynamic rename,City,WESTMINSTER
+dynamic rename,City,WESTMINSTER
+dynamic rename,City,WESTMINSTER
+dynamic rename,City,WHEAT RIDGE
+dynamic rename,City,WHEAT RIDGE
+dynamic rename,City,WHEAT RIDGE
+>>>>>>> main
 dynamic rename,Customer ID,
 dynamic rename,Customer ID,
 dynamic rename,Customer ID,
@@ -10222,6 +10771,7 @@ dynamic rename,CustomerSegment,
 dynamic rename,CustomerSegment,
 dynamic rename,CustomerSegment,
 dynamic rename,CustomerSegment,
+<<<<<<< HEAD
 dynamic rename,CustomerSegment,1
 dynamic rename,CustomerSegment,1
 dynamic rename,CustomerSegment,1
@@ -10492,6 +11042,38 @@ dynamic rename,CustomerSegment,8
 dynamic rename,CustomerSegment,8
 dynamic rename,CustomerSegment,8
 dynamic rename,CustomerSegment,8
+=======
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+dynamic rename,CustomerSegment,Consumer
+>>>>>>> main
 dynamic rename,CustomerSegment,Consumer
 dynamic rename,CustomerSegment,Consumer
 dynamic rename,CustomerSegment,Consumer
@@ -10515,6 +11097,72 @@ dynamic rename,CustomerSegment,Corporate
 dynamic rename,CustomerSegment,Corporate
 dynamic rename,CustomerSegment,Corporate
 dynamic rename,CustomerSegment,Corporate
+<<<<<<< HEAD
+=======
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+dynamic rename,CustomerSegment,Corporate
+>>>>>>> main
 dynamic rename,CustomerSegment,Home Office
 dynamic rename,CustomerSegment,Home Office
 dynamic rename,CustomerSegment,Home Office
@@ -10528,6 +11176,186 @@ dynamic rename,CustomerSegment,Home Office
 dynamic rename,CustomerSegment,Home Office
 dynamic rename,CustomerSegment,Home Office
 dynamic rename,CustomerSegment,Home Office
+<<<<<<< HEAD
+=======
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Home Office
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+dynamic rename,CustomerSegment,Small Business
+>>>>>>> main
 dynamic rename,CustomerSegment,Small Business
 dynamic rename,CustomerSegment,Small Business
 dynamic rename,CustomerSegment,Small Business
@@ -10583,6 +11411,7 @@ dynamic rename,Field5,
 dynamic rename,Field5,
 dynamic rename,Field5,
 dynamic rename,Field5,1070 S Foothill Dr
+<<<<<<< HEAD
 dynamic rename,Field5,1094 Ouray St
 dynamic rename,Field5,1270 Marion St
 dynamic rename,Field5,1282 S Troy St
@@ -10897,6 +11726,322 @@ dynamic rename,Field5,WESTMINSTER
 dynamic rename,Field5,WHEAT RIDGE
 dynamic rename,Field5,WHEAT RIDGE
 dynamic rename,Field5,WHEAT RIDGE
+=======
+dynamic rename,Field5,1070 S Foothill Dr
+dynamic rename,Field5,1070 S Foothill Dr
+dynamic rename,Field5,1070 S Foothill Dr
+dynamic rename,Field5,1094 Ouray St
+dynamic rename,Field5,1094 Ouray St
+dynamic rename,Field5,1094 Ouray St
+dynamic rename,Field5,1094 Ouray St
+dynamic rename,Field5,1110 S Bellaire St
+dynamic rename,Field5,1110 S Bellaire St
+dynamic rename,Field5,1110 S Bellaire St
+dynamic rename,Field5,1137 S Boston Ct
+dynamic rename,Field5,1137 S Boston Ct
+dynamic rename,Field5,1137 S Boston Ct
+dynamic rename,Field5,11625 Community Center Dr
+dynamic rename,Field5,11625 Community Center Dr
+dynamic rename,Field5,11625 Community Center Dr
+dynamic rename,Field5,11782 Larkspur Dr
+dynamic rename,Field5,11782 Larkspur Dr
+dynamic rename,Field5,11782 Larkspur Dr
+dynamic rename,Field5,12168 E Exposition Dr
+dynamic rename,Field5,12168 E Exposition Dr
+dynamic rename,Field5,12168 E Exposition Dr
+dynamic rename,Field5,1270 Marion St
+dynamic rename,Field5,1270 Marion St
+dynamic rename,Field5,1270 Marion St
+dynamic rename,Field5,1270 Marion St
+dynamic rename,Field5,12704 E Asbury Cir
+dynamic rename,Field5,12704 E Asbury Cir
+dynamic rename,Field5,12704 E Asbury Cir
+dynamic rename,Field5,1282 S Troy St
+dynamic rename,Field5,1282 S Troy St
+dynamic rename,Field5,1282 S Troy St
+dynamic rename,Field5,1282 S Troy St
+dynamic rename,Field5,1297 Krameria St
+dynamic rename,Field5,1297 Krameria St
+dynamic rename,Field5,1297 Krameria St
+dynamic rename,Field5,1297 Krameria St
+dynamic rename,Field5,13492 W 67th Dr
+dynamic rename,Field5,13492 W 67th Dr
+dynamic rename,Field5,13492 W 67th Dr
+dynamic rename,Field5,143 S Perry St
+dynamic rename,Field5,143 S Perry St
+dynamic rename,Field5,143 S Perry St
+dynamic rename,Field5,15358 E Saratoga Pl
+dynamic rename,Field5,15358 E Saratoga Pl
+dynamic rename,Field5,15358 E Saratoga Pl
+dynamic rename,Field5,1604 S Syracuse St
+dynamic rename,Field5,1604 S Syracuse St
+dynamic rename,Field5,1604 S Syracuse St
+dynamic rename,Field5,16053 E Nichols Pl
+dynamic rename,Field5,16053 E Nichols Pl
+dynamic rename,Field5,16053 E Nichols Pl
+dynamic rename,Field5,16053 E Nichols Pl
+dynamic rename,Field5,16449 E Berry Ave
+dynamic rename,Field5,16449 E Berry Ave
+dynamic rename,Field5,16449 E Berry Ave
+dynamic rename,Field5,1651 Biscay Cir
+dynamic rename,Field5,1651 Biscay Cir
+dynamic rename,Field5,1651 Biscay Cir
+dynamic rename,Field5,16520 E Brown Dr
+dynamic rename,Field5,16520 E Brown Dr
+dynamic rename,Field5,16520 E Brown Dr
+dynamic rename,Field5,16911 E Harvard Ave
+dynamic rename,Field5,16911 E Harvard Ave
+dynamic rename,Field5,16911 E Harvard Ave
+dynamic rename,Field5,17065 E Dorado Cir
+dynamic rename,Field5,17065 E Dorado Cir
+dynamic rename,Field5,17065 E Dorado Cir
+dynamic rename,Field5,1772 Biscay St
+dynamic rename,Field5,1772 Biscay St
+dynamic rename,Field5,1772 Biscay St
+dynamic rename,Field5,1772 Biscay St
+dynamic rename,Field5,18343 E Arkansas Ave
+dynamic rename,Field5,18343 E Arkansas Ave
+dynamic rename,Field5,18343 E Arkansas Ave
+dynamic rename,Field5,18343 E Arkansas Ave
+dynamic rename,Field5,18796 E Baltic Pl
+dynamic rename,Field5,18796 E Baltic Pl
+dynamic rename,Field5,18796 E Baltic Pl
+dynamic rename,Field5,1927 E 115th Pl
+dynamic rename,Field5,1927 E 115th Pl
+dynamic rename,Field5,1927 E 115th Pl
+dynamic rename,Field5,1927 E 115th Pl
+dynamic rename,Field5,19774 E Union Dr
+dynamic rename,Field5,19774 E Union Dr
+dynamic rename,Field5,19774 E Union Dr
+dynamic rename,Field5,19774 E Union Dr
+dynamic rename,Field5,20127 E Kenyon Pl
+dynamic rename,Field5,20127 E Kenyon Pl
+dynamic rename,Field5,20127 E Kenyon Pl
+dynamic rename,Field5,2080 Fenton St
+dynamic rename,Field5,2080 Fenton St
+dynamic rename,Field5,2080 Fenton St
+dynamic rename,Field5,2226 Glencoe St
+dynamic rename,Field5,2226 Glencoe St
+dynamic rename,Field5,2226 Glencoe St
+dynamic rename,Field5,2226 Glencoe St
+dynamic rename,Field5,2316 E 5th Ave
+dynamic rename,Field5,2316 E 5th Ave
+dynamic rename,Field5,2316 E 5th Ave
+dynamic rename,Field5,232 N Biloxi Way
+dynamic rename,Field5,232 N Biloxi Way
+dynamic rename,Field5,232 N Biloxi Way
+dynamic rename,Field5,232 N Biloxi Way
+dynamic rename,Field5,2456 W 111th Ct
+dynamic rename,Field5,2456 W 111th Ct
+dynamic rename,Field5,2456 W 111th Ct
+dynamic rename,Field5,2456 W 111th Ct
+dynamic rename,Field5,2521 Perry St
+dynamic rename,Field5,2521 Perry St
+dynamic rename,Field5,2521 Perry St
+dynamic rename,Field5,2521 Perry St
+dynamic rename,Field5,2552 E Alameda Ave
+dynamic rename,Field5,2552 E Alameda Ave
+dynamic rename,Field5,2552 E Alameda Ave
+dynamic rename,Field5,2691 S King St
+dynamic rename,Field5,2691 S King St
+dynamic rename,Field5,2691 S King St
+dynamic rename,Field5,2691 S King St
+dynamic rename,Field5,2753 S Milwaukee St
+dynamic rename,Field5,2753 S Milwaukee St
+dynamic rename,Field5,2753 S Milwaukee St
+dynamic rename,Field5,2925 W College Ave
+dynamic rename,Field5,2925 W College Ave
+dynamic rename,Field5,2925 W College Ave
+dynamic rename,Field5,3057 S Pitkin Way
+dynamic rename,Field5,3057 S Pitkin Way
+dynamic rename,Field5,3057 S Pitkin Way
+dynamic rename,Field5,3057 S Pitkin Way
+dynamic rename,Field5,3072 S Rosemary St
+dynamic rename,Field5,3072 S Rosemary St
+dynamic rename,Field5,3072 S Rosemary St
+dynamic rename,Field5,319 Nome St
+dynamic rename,Field5,319 Nome St
+dynamic rename,Field5,319 Nome St
+dynamic rename,Field5,319 Nome St
+dynamic rename,Field5,327 Harlan St
+dynamic rename,Field5,327 Harlan St
+dynamic rename,Field5,327 Harlan St
+dynamic rename,Field5,327 Harlan St
+dynamic rename,Field5,355 Ash St
+dynamic rename,Field5,355 Ash St
+dynamic rename,Field5,355 Ash St
+dynamic rename,Field5,355 Ash St
+dynamic rename,Field5,3636 Clay St
+dynamic rename,Field5,3636 Clay St
+dynamic rename,Field5,3636 Clay St
+dynamic rename,Field5,3636 Clay St
+dynamic rename,Field5,370 Eudora St
+dynamic rename,Field5,370 Eudora St
+dynamic rename,Field5,370 Eudora St
+dynamic rename,Field5,3721 S Pitkin Ct
+dynamic rename,Field5,3721 S Pitkin Ct
+dynamic rename,Field5,3721 S Pitkin Ct
+dynamic rename,Field5,3883 Quitman St
+dynamic rename,Field5,3883 Quitman St
+dynamic rename,Field5,3883 Quitman St
+dynamic rename,Field5,3883 Quitman St
+dynamic rename,Field5,401 S Leyden St
+dynamic rename,Field5,401 S Leyden St
+dynamic rename,Field5,401 S Leyden St
+dynamic rename,Field5,401 S Leyden St
+dynamic rename,Field5,4125C S Evanston Cir
+dynamic rename,Field5,4125C S Evanston Cir
+dynamic rename,Field5,4125C S Evanston Cir
+dynamic rename,Field5,415 Grape St
+dynamic rename,Field5,415 Grape St
+dynamic rename,Field5,415 Grape St
+dynamic rename,Field5,4220 W 35th Ave
+dynamic rename,Field5,4220 W 35th Ave
+dynamic rename,Field5,4220 W 35th Ave
+dynamic rename,Field5,4433 Aaron Pl
+dynamic rename,Field5,4433 Aaron Pl
+dynamic rename,Field5,4433 Aaron Pl
+dynamic rename,Field5,4433 Aaron Pl
+dynamic rename,Field5,4535 S Jellison St
+dynamic rename,Field5,4535 S Jellison St
+dynamic rename,Field5,4535 S Jellison St
+dynamic rename,Field5,4535 S Jellison St
+dynamic rename,Field5,4550 E Jewell Ave
+dynamic rename,Field5,4550 E Jewell Ave
+dynamic rename,Field5,4550 E Jewell Ave
+dynamic rename,Field5,4983 S Zephyr St
+dynamic rename,Field5,4983 S Zephyr St
+dynamic rename,Field5,4983 S Zephyr St
+dynamic rename,Field5,4983 S Zephyr St
+dynamic rename,Field5,5375 Sombrero
+dynamic rename,Field5,5375 Sombrero
+dynamic rename,Field5,5375 Sombrero
+dynamic rename,Field5,605 S Lowell Blvd
+dynamic rename,Field5,605 S Lowell Blvd
+dynamic rename,Field5,605 S Lowell Blvd
+dynamic rename,Field5,605 S Lowell Blvd
+dynamic rename,Field5,610 S Clinton St
+dynamic rename,Field5,610 S Clinton St
+dynamic rename,Field5,610 S Clinton St
+dynamic rename,Field5,610 S Clinton St
+dynamic rename,Field5,6281 S Adams Dr
+dynamic rename,Field5,6281 S Adams Dr
+dynamic rename,Field5,6281 S Adams Dr
+dynamic rename,Field5,6281 S Adams Dr
+dynamic rename,Field5,6343 Moore Cir
+dynamic rename,Field5,6343 Moore Cir
+dynamic rename,Field5,6343 Moore Cir
+dynamic rename,Field5,6343 Moore Cir
+dynamic rename,Field5,6450 Urban St
+dynamic rename,Field5,6450 Urban St
+dynamic rename,Field5,6450 Urban St
+dynamic rename,Field5,648 Allison St
+dynamic rename,Field5,648 Allison St
+dynamic rename,Field5,648 Allison St
+dynamic rename,Field5,6554 S Quemoy Way
+dynamic rename,Field5,6554 S Quemoy Way
+dynamic rename,Field5,6554 S Quemoy Way
+dynamic rename,Field5,6561 Welch Ct
+dynamic rename,Field5,6561 Welch Ct
+dynamic rename,Field5,6561 Welch Ct
+dynamic rename,Field5,6615 W 13th Ave
+dynamic rename,Field5,6615 W 13th Ave
+dynamic rename,Field5,6615 W 13th Ave
+dynamic rename,Field5,6879 Johnson St
+dynamic rename,Field5,6879 Johnson St
+dynamic rename,Field5,6879 Johnson St
+dynamic rename,Field5,6879 Johnson St
+dynamic rename,Field5,7141 Beech St
+dynamic rename,Field5,7141 Beech St
+dynamic rename,Field5,7141 Beech St
+dynamic rename,Field5,7145 W 48th Ave
+dynamic rename,Field5,7145 W 48th Ave
+dynamic rename,Field5,7145 W 48th Ave
+dynamic rename,Field5,7265 W Center Ave
+dynamic rename,Field5,7265 W Center Ave
+dynamic rename,Field5,7265 W Center Ave
+dynamic rename,Field5,7265 W Center Ave
+dynamic rename,Field5,7498 Alkire St
+dynamic rename,Field5,7498 Alkire St
+dynamic rename,Field5,7498 Alkire St
+dynamic rename,Field5,7595 S Teller Ct
+dynamic rename,Field5,7595 S Teller Ct
+dynamic rename,Field5,7595 S Teller Ct
+dynamic rename,Field5,7663 Saulsbury St
+dynamic rename,Field5,7663 Saulsbury St
+dynamic rename,Field5,7663 Saulsbury St
+dynamic rename,Field5,7663 Saulsbury St
+dynamic rename,Field5,7727 Harlan St
+dynamic rename,Field5,7727 Harlan St
+dynamic rename,Field5,7727 Harlan St
+dynamic rename,Field5,7727 Harlan St
+dynamic rename,Field5,778 S Bryant St
+dynamic rename,Field5,778 S Bryant St
+dynamic rename,Field5,778 S Bryant St
+dynamic rename,Field5,778 S Bryant St
+dynamic rename,Field5,7816 Cathedral Peak
+dynamic rename,Field5,7816 Cathedral Peak
+dynamic rename,Field5,7816 Cathedral Peak
+dynamic rename,Field5,7816 Cathedral Peak
+dynamic rename,Field5,7867 S Jersey Way
+dynamic rename,Field5,7867 S Jersey Way
+dynamic rename,Field5,7867 S Jersey Way
+dynamic rename,Field5,7875 Elder Cir
+dynamic rename,Field5,7875 Elder Cir
+dynamic rename,Field5,7875 Elder Cir
+dynamic rename,Field5,7875 Elder Cir
+dynamic rename,Field5,7988 W 82nd Pl
+dynamic rename,Field5,7988 W 82nd Pl
+dynamic rename,Field5,7988 W 82nd Pl
+dynamic rename,Field5,7988 W 82nd Pl
+dynamic rename,Field5,8060 E Girard Ave
+dynamic rename,Field5,8060 E Girard Ave
+dynamic rename,Field5,8060 E Girard Ave
+dynamic rename,Field5,808 S Quitman St
+dynamic rename,Field5,808 S Quitman St
+dynamic rename,Field5,808 S Quitman St
+dynamic rename,Field5,808 S Quitman St
+dynamic rename,Field5,8090 W 19th Ave
+dynamic rename,Field5,8090 W 19th Ave
+dynamic rename,Field5,8090 W 19th Ave
+dynamic rename,Field5,8090 W 19th Ave
+dynamic rename,Field5,826 S Eliot St
+dynamic rename,Field5,826 S Eliot St
+dynamic rename,Field5,826 S Eliot St
+dynamic rename,Field5,826 S Eliot St
+dynamic rename,Field5,8300 Fairmount Dr
+dynamic rename,Field5,8300 Fairmount Dr
+dynamic rename,Field5,8300 Fairmount Dr
+dynamic rename,Field5,8321 Solana Dr
+dynamic rename,Field5,8321 Solana Dr
+dynamic rename,Field5,8321 Solana Dr
+dynamic rename,Field5,8321 Solana Dr
+dynamic rename,Field5,8557 W Hampden Ave
+dynamic rename,Field5,8557 W Hampden Ave
+dynamic rename,Field5,8557 W Hampden Ave
+dynamic rename,Field5,8557 W Hampden Ave
+dynamic rename,Field5,8591 Oakwood St
+dynamic rename,Field5,8591 Oakwood St
+dynamic rename,Field5,8591 Oakwood St
+dynamic rename,Field5,8591 Oakwood St
+dynamic rename,Field5,8601 Garland Ct
+dynamic rename,Field5,8601 Garland Ct
+dynamic rename,Field5,8601 Garland Ct
+dynamic rename,Field5,8601 Garland Ct
+dynamic rename,Field5,8785 Cloverleaf Cir
+dynamic rename,Field5,8785 Cloverleaf Cir
+dynamic rename,Field5,8785 Cloverleaf Cir
+dynamic rename,Field5,9477 W Utah Pl
+dynamic rename,Field5,9477 W Utah Pl
+dynamic rename,Field5,9477 W Utah Pl
+dynamic rename,Field5,9477 W Utah Pl
+dynamic rename,Field5,9521 W 65th Ave
+dynamic rename,Field5,9521 W 65th Ave
+dynamic rename,Field5,9521 W 65th Ave
+dynamic rename,Field5,985 S Miller St
+dynamic rename,Field5,985 S Miller St
+dynamic rename,Field5,985 S Miller St
+>>>>>>> main
 dynamic rename,First Name,
 dynamic rename,First Name,
 dynamic rename,First Name,
@@ -13149,6 +14294,7 @@ dynamic rename,Spend,
 dynamic rename,Spend,
 dynamic rename,Spend,1035.58
 dynamic rename,Spend,1035.58
+<<<<<<< HEAD
 dynamic rename,Spend,1070 S Foothill Dr
 dynamic rename,Spend,1070 S Foothill Dr
 dynamic rename,Spend,1094 Ouray St
@@ -13179,10 +14325,37 @@ dynamic rename,Spend,1282 S Troy St
 dynamic rename,Spend,1282 S Troy St
 dynamic rename,Spend,1297 Krameria St
 dynamic rename,Spend,1297 Krameria St
+=======
+dynamic rename,Spend,1035.58
+dynamic rename,Spend,1035.58
+dynamic rename,Spend,1036.06
+dynamic rename,Spend,1036.06
+dynamic rename,Spend,11.13
+dynamic rename,Spend,11.13
+dynamic rename,Spend,11.13
+dynamic rename,Spend,11.13
+dynamic rename,Spend,116.14
+dynamic rename,Spend,116.14
+dynamic rename,Spend,116.14
+dynamic rename,Spend,116.14
+dynamic rename,Spend,117.53
+dynamic rename,Spend,117.53
+dynamic rename,Spend,117.53
+dynamic rename,Spend,117.53
+dynamic rename,Spend,1265.3
+dynamic rename,Spend,1265.3
+dynamic rename,Spend,1265.3
+dynamic rename,Spend,1265.3
+dynamic rename,Spend,1304.94
+dynamic rename,Spend,1304.94
+dynamic rename,Spend,1305.9
+dynamic rename,Spend,1305.9
+>>>>>>> main
 dynamic rename,Spend,1305.9
 dynamic rename,Spend,1305.9
 dynamic rename,Spend,1311.44
 dynamic rename,Spend,1311.44
+<<<<<<< HEAD
 dynamic rename,Spend,13492 W 67th Dr
 dynamic rename,Spend,13492 W 67th Dr
 dynamic rename,Spend,143 S Perry St
@@ -13273,10 +14446,129 @@ dynamic rename,Spend,3277.49
 dynamic rename,Spend,3277.49
 dynamic rename,Spend,3339.23
 dynamic rename,Spend,3339.23
+=======
+dynamic rename,Spend,1311.44
+dynamic rename,Spend,1311.44
+dynamic rename,Spend,1385.69
+dynamic rename,Spend,1385.69
+dynamic rename,Spend,1386.89
+dynamic rename,Spend,1386.89
+dynamic rename,Spend,14.17
+dynamic rename,Spend,14.17
+dynamic rename,Spend,1404.09
+dynamic rename,Spend,1404.09
+dynamic rename,Spend,1458.58
+dynamic rename,Spend,1458.58
+dynamic rename,Spend,1458.58
+dynamic rename,Spend,1458.58
+dynamic rename,Spend,1500.29
+dynamic rename,Spend,1500.29
+dynamic rename,Spend,152.93
+dynamic rename,Spend,152.93
+dynamic rename,Spend,152.93
+dynamic rename,Spend,152.93
+dynamic rename,Spend,157.78
+dynamic rename,Spend,157.78
+dynamic rename,Spend,1600.41
+dynamic rename,Spend,1600.41
+dynamic rename,Spend,1666.35
+dynamic rename,Spend,1666.35
+dynamic rename,Spend,1666.35
+dynamic rename,Spend,1666.35
+dynamic rename,Spend,178.34
+dynamic rename,Spend,178.34
+dynamic rename,Spend,178.34
+dynamic rename,Spend,178.34
+dynamic rename,Spend,1838.64
+dynamic rename,Spend,1838.64
+dynamic rename,Spend,1896.84
+dynamic rename,Spend,1896.84
+dynamic rename,Spend,192.69
+dynamic rename,Spend,192.69
+dynamic rename,Spend,192.69
+dynamic rename,Spend,192.69
+dynamic rename,Spend,1951.58
+dynamic rename,Spend,1951.58
+dynamic rename,Spend,2023.74
+dynamic rename,Spend,2023.74
+dynamic rename,Spend,2023.74
+dynamic rename,Spend,2023.74
+dynamic rename,Spend,206.95
+dynamic rename,Spend,206.95
+dynamic rename,Spend,20795.51
+dynamic rename,Spend,20795.51
+dynamic rename,Spend,20795.51
+dynamic rename,Spend,20795.51
+dynamic rename,Spend,2101.11
+dynamic rename,Spend,2101.11
+dynamic rename,Spend,211.15
+dynamic rename,Spend,211.15
+dynamic rename,Spend,211.15
+dynamic rename,Spend,211.15
+dynamic rename,Spend,2113.59
+dynamic rename,Spend,2113.59
+dynamic rename,Spend,21346.26
+dynamic rename,Spend,21346.26
+dynamic rename,Spend,214.2
+dynamic rename,Spend,214.2
+dynamic rename,Spend,214.2
+dynamic rename,Spend,214.2
+dynamic rename,Spend,2149.84
+dynamic rename,Spend,2149.84
+dynamic rename,Spend,2161.87
+dynamic rename,Spend,2161.87
+dynamic rename,Spend,2161.87
+dynamic rename,Spend,2161.87
+dynamic rename,Spend,228.27
+dynamic rename,Spend,228.27
+dynamic rename,Spend,2441.27
+dynamic rename,Spend,2441.27
+dynamic rename,Spend,2441.27
+dynamic rename,Spend,2441.27
+dynamic rename,Spend,25.37
+dynamic rename,Spend,25.37
+dynamic rename,Spend,27192.11
+dynamic rename,Spend,27192.11
+dynamic rename,Spend,2782.73
+dynamic rename,Spend,2782.73
+dynamic rename,Spend,2782.73
+dynamic rename,Spend,2782.73
+dynamic rename,Spend,27828.72
+dynamic rename,Spend,27828.72
+dynamic rename,Spend,2801.75
+dynamic rename,Spend,2801.75
+dynamic rename,Spend,2810.48
+dynamic rename,Spend,2810.48
+dynamic rename,Spend,29.1
+dynamic rename,Spend,29.1
+dynamic rename,Spend,3030.75
+dynamic rename,Spend,3030.75
+dynamic rename,Spend,3030.75
+dynamic rename,Spend,3030.75
+dynamic rename,Spend,3110.22
+dynamic rename,Spend,3110.22
+dynamic rename,Spend,3277.49
+dynamic rename,Spend,3277.49
+dynamic rename,Spend,3277.49
+dynamic rename,Spend,3277.49
+dynamic rename,Spend,329.95
+dynamic rename,Spend,329.95
+dynamic rename,Spend,3311.71
+dynamic rename,Spend,3311.71
+dynamic rename,Spend,3339.23
+dynamic rename,Spend,3339.23
+dynamic rename,Spend,3339.23
+dynamic rename,Spend,3339.23
+dynamic rename,Spend,3351.12
+dynamic rename,Spend,3351.12
+dynamic rename,Spend,3413.87
+dynamic rename,Spend,3413.87
+>>>>>>> main
 dynamic rename,Spend,3413.87
 dynamic rename,Spend,3413.87
 dynamic rename,Spend,3447.95
 dynamic rename,Spend,3447.95
+<<<<<<< HEAD
 dynamic rename,Spend,351.41
 dynamic rename,Spend,351.41
 dynamic rename,Spend,355 Ash St
@@ -13313,16 +14605,62 @@ dynamic rename,Spend,4535 S Jellison St
 dynamic rename,Spend,4535 S Jellison St
 dynamic rename,Spend,4550 E Jewell Ave
 dynamic rename,Spend,4550 E Jewell Ave
+=======
+dynamic rename,Spend,3447.95
+dynamic rename,Spend,3447.95
+dynamic rename,Spend,351.41
+dynamic rename,Spend,351.41
+dynamic rename,Spend,351.41
+dynamic rename,Spend,351.41
+dynamic rename,Spend,38.15
+dynamic rename,Spend,38.15
+dynamic rename,Spend,38.15
+dynamic rename,Spend,38.15
+dynamic rename,Spend,3855
+dynamic rename,Spend,3855
+dynamic rename,Spend,3855
+dynamic rename,Spend,3855
+dynamic rename,Spend,4004.44
+dynamic rename,Spend,4004.44
+dynamic rename,Spend,4004.44
+dynamic rename,Spend,4004.44
+dynamic rename,Spend,41.06
+dynamic rename,Spend,41.06
+dynamic rename,Spend,41.06
+dynamic rename,Spend,41.06
+dynamic rename,Spend,432.44
+dynamic rename,Spend,432.44
+dynamic rename,Spend,4402.46
+dynamic rename,Spend,4402.46
+dynamic rename,Spend,4410
+dynamic rename,Spend,4410
+dynamic rename,Spend,4410
+dynamic rename,Spend,4410
+dynamic rename,Spend,46.85
+dynamic rename,Spend,46.85
+dynamic rename,Spend,461.8
+dynamic rename,Spend,461.8
+>>>>>>> main
 dynamic rename,Spend,461.8
 dynamic rename,Spend,461.8
 dynamic rename,Spend,475.04
 dynamic rename,Spend,475.04
+<<<<<<< HEAD
 dynamic rename,Spend,4983 S Zephyr St
 dynamic rename,Spend,4983 S Zephyr St
+=======
+dynamic rename,Spend,475.04
+dynamic rename,Spend,475.04
+dynamic rename,Spend,476.43
+dynamic rename,Spend,476.43
+dynamic rename,Spend,5067.7
+dynamic rename,Spend,5067.7
+>>>>>>> main
 dynamic rename,Spend,5067.7
 dynamic rename,Spend,5067.7
 dynamic rename,Spend,52.91
 dynamic rename,Spend,52.91
+<<<<<<< HEAD
 dynamic rename,Spend,5375 Sombrero
 dynamic rename,Spend,5375 Sombrero
 dynamic rename,Spend,5404.06
@@ -13333,20 +14671,52 @@ dynamic rename,Spend,605 S Lowell Blvd
 dynamic rename,Spend,605 S Lowell Blvd
 dynamic rename,Spend,610 S Clinton St
 dynamic rename,Spend,610 S Clinton St
+=======
+dynamic rename,Spend,52.91
+dynamic rename,Spend,52.91
+dynamic rename,Spend,5404.06
+dynamic rename,Spend,5404.06
+dynamic rename,Spend,5404.06
+dynamic rename,Spend,5404.06
+dynamic rename,Spend,552.53
+dynamic rename,Spend,552.53
+dynamic rename,Spend,57.87
+dynamic rename,Spend,57.87
+dynamic rename,Spend,588.33
+dynamic rename,Spend,588.33
+dynamic rename,Spend,588.33
+dynamic rename,Spend,588.33
+dynamic rename,Spend,612.79
+dynamic rename,Spend,612.79
+>>>>>>> main
 dynamic rename,Spend,612.79
 dynamic rename,Spend,612.79
 dynamic rename,Spend,618.31
 dynamic rename,Spend,618.31
+<<<<<<< HEAD
 dynamic rename,Spend,6281 S Adams Dr
 dynamic rename,Spend,6281 S Adams Dr
 dynamic rename,Spend,63.22
 dynamic rename,Spend,63.22
 dynamic rename,Spend,6343 Moore Cir
 dynamic rename,Spend,6343 Moore Cir
+=======
+dynamic rename,Spend,618.31
+dynamic rename,Spend,618.31
+dynamic rename,Spend,62.5
+dynamic rename,Spend,62.5
+dynamic rename,Spend,63.22
+dynamic rename,Spend,63.22
+dynamic rename,Spend,63.22
+dynamic rename,Spend,63.22
+dynamic rename,Spend,643.76
+dynamic rename,Spend,643.76
+>>>>>>> main
 dynamic rename,Spend,643.76
 dynamic rename,Spend,643.76
 dynamic rename,Spend,6443.53
 dynamic rename,Spend,6443.53
+<<<<<<< HEAD
 dynamic rename,Spend,6450 Urban St
 dynamic rename,Spend,6450 Urban St
 dynamic rename,Spend,6451.46
@@ -13687,6 +15057,316 @@ dynamic rename,State,80247
 dynamic rename,State,80303
 dynamic rename,State,80303
 dynamic rename,State,80303
+=======
+dynamic rename,Spend,6443.53
+dynamic rename,Spend,6443.53
+dynamic rename,Spend,6451.46
+dynamic rename,Spend,6451.46
+dynamic rename,Spend,6451.46
+dynamic rename,Spend,6451.46
+dynamic rename,Spend,671.79
+dynamic rename,Spend,671.79
+dynamic rename,Spend,7026.44
+dynamic rename,Spend,7026.44
+dynamic rename,Spend,745.65
+dynamic rename,Spend,745.65
+dynamic rename,Spend,80.79
+dynamic rename,Spend,80.79
+dynamic rename,Spend,80.79
+dynamic rename,Spend,80.79
+dynamic rename,Spend,830.72
+dynamic rename,Spend,830.72
+dynamic rename,Spend,839.1
+dynamic rename,Spend,839.1
+dynamic rename,Spend,839.1
+dynamic rename,Spend,839.1
+dynamic rename,Spend,85.72
+dynamic rename,Spend,85.72
+dynamic rename,Spend,866.3
+dynamic rename,Spend,866.3
+dynamic rename,Spend,9270.87
+dynamic rename,Spend,9270.87
+dynamic rename,Spend,935.92
+dynamic rename,Spend,935.92
+dynamic rename,Spend,935.92
+dynamic rename,Spend,935.92
+dynamic rename,Spend,962.61
+dynamic rename,Spend,962.61
+dynamic rename,Spend,98.61
+dynamic rename,Spend,98.61
+dynamic rename,Spend,99.97
+dynamic rename,Spend,99.97
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+dynamic rename,State,CO
+>>>>>>> main
 dynamic rename,State,CO
 dynamic rename,State,CO
 dynamic rename,State,CO
@@ -14188,11 +15868,107 @@ dynamic rename,StoreNumber,100
 dynamic rename,StoreNumber,100
 dynamic rename,StoreNumber,100
 dynamic rename,StoreNumber,100
+<<<<<<< HEAD
+=======
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,100
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+dynamic rename,StoreNumber,101
+>>>>>>> main
 dynamic rename,StoreNumber,101
 dynamic rename,StoreNumber,101
 dynamic rename,StoreNumber,101
 dynamic rename,StoreNumber,101
 dynamic rename,StoreNumber,102
+<<<<<<< HEAD
+=======
+dynamic rename,StoreNumber,102
+dynamic rename,StoreNumber,102
+dynamic rename,StoreNumber,102
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+dynamic rename,StoreNumber,103
+>>>>>>> main
 dynamic rename,StoreNumber,103
 dynamic rename,StoreNumber,103
 dynamic rename,StoreNumber,103
@@ -14200,6 +15976,87 @@ dynamic rename,StoreNumber,104
 dynamic rename,StoreNumber,104
 dynamic rename,StoreNumber,104
 dynamic rename,StoreNumber,104
+<<<<<<< HEAD
+=======
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,104
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+dynamic rename,StoreNumber,105
+>>>>>>> main
 dynamic rename,StoreNumber,105
 dynamic rename,StoreNumber,105
 dynamic rename,StoreNumber,105
@@ -14214,6 +16071,78 @@ dynamic rename,StoreNumber,106
 dynamic rename,StoreNumber,106
 dynamic rename,StoreNumber,106
 dynamic rename,StoreNumber,106
+<<<<<<< HEAD
+=======
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,106
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+dynamic rename,StoreNumber,107
+>>>>>>> main
 dynamic rename,StoreNumber,107
 dynamic rename,StoreNumber,107
 dynamic rename,StoreNumber,107
@@ -14222,11 +16151,48 @@ dynamic rename,StoreNumber,107
 dynamic rename,StoreNumber,108
 dynamic rename,StoreNumber,108
 dynamic rename,StoreNumber,108
+<<<<<<< HEAD
+=======
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
+dynamic rename,StoreNumber,108
 dynamic rename,StoreNumber,109
 dynamic rename,StoreNumber,109
 dynamic rename,StoreNumber,109
 dynamic rename,StoreNumber,109
 dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+>>>>>>> main
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+dynamic rename,StoreNumber,109
+<<<<<<< HEAD
 dynamic rename,StoreNumber,Consumer
 dynamic rename,StoreNumber,Consumer
 dynamic rename,StoreNumber,Consumer
@@ -14497,6 +16463,8 @@ dynamic rename,StoreNumber,Small Business
 dynamic rename,StoreNumber,Small Business
 dynamic rename,StoreNumber,Small Business
 dynamic rename,StoreNumber,Small Business
+=======
+>>>>>>> main
 dynamic rename,Total_Spend,
 dynamic rename,Total_Spend,
 dynamic rename,Total_Spend,
@@ -14767,6 +16735,7 @@ dynamic rename,Total_Spend,
 dynamic rename,Total_Spend,
 dynamic rename,Total_Spend,
 dynamic rename,Total_Spend,
+<<<<<<< HEAD
 dynamic rename,Total_Spend,1070 S Foothill Dr
 dynamic rename,Total_Spend,1094 Ouray St
 dynamic rename,Total_Spend,1110 S Bellaire St
@@ -14857,6 +16826,98 @@ dynamic rename,Total_Spend,8785 Cloverleaf Cir
 dynamic rename,Total_Spend,9477 W Utah Pl
 dynamic rename,Total_Spend,9521 W 65th Ave
 dynamic rename,Total_Spend,985 S Miller St
+=======
+dynamic rename,Total_Spend,1035.58
+dynamic rename,Total_Spend,1036.06
+dynamic rename,Total_Spend,11.13
+dynamic rename,Total_Spend,116.14
+dynamic rename,Total_Spend,117.53
+dynamic rename,Total_Spend,1265.3
+dynamic rename,Total_Spend,1304.94
+dynamic rename,Total_Spend,1305.9
+dynamic rename,Total_Spend,1311.44
+dynamic rename,Total_Spend,1385.69
+dynamic rename,Total_Spend,1386.89
+dynamic rename,Total_Spend,14.17
+dynamic rename,Total_Spend,1404.09
+dynamic rename,Total_Spend,1458.58
+dynamic rename,Total_Spend,1500.29
+dynamic rename,Total_Spend,152.93
+dynamic rename,Total_Spend,157.78
+dynamic rename,Total_Spend,1600.41
+dynamic rename,Total_Spend,1666.35
+dynamic rename,Total_Spend,178.34
+dynamic rename,Total_Spend,1838.64
+dynamic rename,Total_Spend,1896.84
+dynamic rename,Total_Spend,192.69
+dynamic rename,Total_Spend,1951.58
+dynamic rename,Total_Spend,2023.74
+dynamic rename,Total_Spend,206.95
+dynamic rename,Total_Spend,20795.51
+dynamic rename,Total_Spend,2101.11
+dynamic rename,Total_Spend,211.15
+dynamic rename,Total_Spend,2113.59
+dynamic rename,Total_Spend,21346.26
+dynamic rename,Total_Spend,214.2
+dynamic rename,Total_Spend,2149.84
+dynamic rename,Total_Spend,2161.87
+dynamic rename,Total_Spend,228.27
+dynamic rename,Total_Spend,2441.27
+dynamic rename,Total_Spend,25.37
+dynamic rename,Total_Spend,27192.11
+dynamic rename,Total_Spend,2782.73
+dynamic rename,Total_Spend,27828.72
+dynamic rename,Total_Spend,2801.75
+dynamic rename,Total_Spend,2810.48
+dynamic rename,Total_Spend,29.1
+dynamic rename,Total_Spend,3030.75
+dynamic rename,Total_Spend,3110.22
+dynamic rename,Total_Spend,3277.49
+dynamic rename,Total_Spend,329.95
+dynamic rename,Total_Spend,3311.71
+dynamic rename,Total_Spend,3339.23
+dynamic rename,Total_Spend,3351.12
+dynamic rename,Total_Spend,3413.87
+dynamic rename,Total_Spend,3447.95
+dynamic rename,Total_Spend,351.41
+dynamic rename,Total_Spend,38.15
+dynamic rename,Total_Spend,3855
+dynamic rename,Total_Spend,4004.44
+dynamic rename,Total_Spend,41.06
+dynamic rename,Total_Spend,432.44
+dynamic rename,Total_Spend,4402.46
+dynamic rename,Total_Spend,4410
+dynamic rename,Total_Spend,46.85
+dynamic rename,Total_Spend,461.8
+dynamic rename,Total_Spend,475.04
+dynamic rename,Total_Spend,476.43
+dynamic rename,Total_Spend,5067.7
+dynamic rename,Total_Spend,52.91
+dynamic rename,Total_Spend,5404.06
+dynamic rename,Total_Spend,552.53
+dynamic rename,Total_Spend,57.87
+dynamic rename,Total_Spend,588.33
+dynamic rename,Total_Spend,612.79
+dynamic rename,Total_Spend,618.31
+dynamic rename,Total_Spend,62.5
+dynamic rename,Total_Spend,63.22
+dynamic rename,Total_Spend,643.76
+dynamic rename,Total_Spend,6443.53
+dynamic rename,Total_Spend,6451.46
+dynamic rename,Total_Spend,671.79
+dynamic rename,Total_Spend,7026.44
+dynamic rename,Total_Spend,745.65
+dynamic rename,Total_Spend,80.79
+dynamic rename,Total_Spend,830.72
+dynamic rename,Total_Spend,839.1
+dynamic rename,Total_Spend,85.72
+dynamic rename,Total_Spend,866.3
+dynamic rename,Total_Spend,9270.87
+dynamic rename,Total_Spend,935.92
+dynamic rename,Total_Spend,962.61
+dynamic rename,Total_Spend,98.61
+dynamic rename,Total_Spend,99.97
+>>>>>>> main
 dynamic rename,Total_Visits,
 dynamic rename,Total_Visits,
 dynamic rename,Total_Visits,
@@ -15127,6 +17188,7 @@ dynamic rename,Total_Visits,
 dynamic rename,Total_Visits,
 dynamic rename,Total_Visits,
 dynamic rename,Total_Visits,
+<<<<<<< HEAD
 dynamic rename,Total_Visits,1035.58
 dynamic rename,Total_Visits,1036.06
 dynamic rename,Total_Visits,11.13
@@ -15217,6 +17279,98 @@ dynamic rename,Total_Visits,935.92
 dynamic rename,Total_Visits,962.61
 dynamic rename,Total_Visits,98.61
 dynamic rename,Total_Visits,99.97
+=======
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,1
+dynamic rename,Total_Visits,11
+dynamic rename,Total_Visits,15
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,2
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,3
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,4
+dynamic rename,Total_Visits,5
+dynamic rename,Total_Visits,5
+dynamic rename,Total_Visits,5
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,6
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,7
+dynamic rename,Total_Visits,8
+dynamic rename,Total_Visits,8
+>>>>>>> main
 dynamic rename,Visits,
 dynamic rename,Visits,
 dynamic rename,Visits,
@@ -15347,6 +17501,7 @@ dynamic rename,Visits,1
 dynamic rename,Visits,1
 dynamic rename,Visits,1
 dynamic rename,Visits,1
+<<<<<<< HEAD
 dynamic rename,Visits,1035.58
 dynamic rename,Visits,1035.58
 dynamic rename,Visits,1036.06
@@ -15397,6 +17552,87 @@ dynamic rename,Visits,192.69
 dynamic rename,Visits,192.69
 dynamic rename,Visits,1951.58
 dynamic rename,Visits,1951.58
+=======
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,1
+dynamic rename,Visits,11
+dynamic rename,Visits,11
+dynamic rename,Visits,11
+dynamic rename,Visits,11
+dynamic rename,Visits,15
+dynamic rename,Visits,15
 dynamic rename,Visits,2
 dynamic rename,Visits,2
 dynamic rename,Visits,2
@@ -15405,6 +17641,30 @@ dynamic rename,Visits,2
 dynamic rename,Visits,2
 dynamic rename,Visits,2
 dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+>>>>>>> main
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+dynamic rename,Visits,2
+<<<<<<< HEAD
 dynamic rename,Visits,2023.74
 dynamic rename,Visits,2023.74
 dynamic rename,Visits,206.95
@@ -15443,6 +17703,8 @@ dynamic rename,Visits,2810.48
 dynamic rename,Visits,2810.48
 dynamic rename,Visits,29.1
 dynamic rename,Visits,29.1
+=======
+>>>>>>> main
 dynamic rename,Visits,3
 dynamic rename,Visits,3
 dynamic rename,Visits,3
@@ -15455,6 +17717,7 @@ dynamic rename,Visits,3
 dynamic rename,Visits,3
 dynamic rename,Visits,3
 dynamic rename,Visits,3
+<<<<<<< HEAD
 dynamic rename,Visits,3030.75
 dynamic rename,Visits,3030.75
 dynamic rename,Visits,3110.22
@@ -15479,6 +17742,25 @@ dynamic rename,Visits,38.15
 dynamic rename,Visits,38.15
 dynamic rename,Visits,3855
 dynamic rename,Visits,3855
+=======
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
+dynamic rename,Visits,3
 dynamic rename,Visits,4
 dynamic rename,Visits,4
 dynamic rename,Visits,4
@@ -15487,6 +17769,32 @@ dynamic rename,Visits,4
 dynamic rename,Visits,4
 dynamic rename,Visits,4
 dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+>>>>>>> main
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+dynamic rename,Visits,4
+<<<<<<< HEAD
 dynamic rename,Visits,4004.44
 dynamic rename,Visits,4004.44
 dynamic rename,Visits,41.06
@@ -15505,12 +17813,15 @@ dynamic rename,Visits,475.04
 dynamic rename,Visits,475.04
 dynamic rename,Visits,476.43
 dynamic rename,Visits,476.43
+=======
+>>>>>>> main
 dynamic rename,Visits,5
 dynamic rename,Visits,5
 dynamic rename,Visits,5
 dynamic rename,Visits,5
 dynamic rename,Visits,5
 dynamic rename,Visits,5
+<<<<<<< HEAD
 dynamic rename,Visits,5067.7
 dynamic rename,Visits,5067.7
 dynamic rename,Visits,52.91
@@ -15523,6 +17834,13 @@ dynamic rename,Visits,57.87
 dynamic rename,Visits,57.87
 dynamic rename,Visits,588.33
 dynamic rename,Visits,588.33
+=======
+dynamic rename,Visits,5
+dynamic rename,Visits,5
+dynamic rename,Visits,5
+dynamic rename,Visits,5
+dynamic rename,Visits,5
+dynamic rename,Visits,5
 dynamic rename,Visits,6
 dynamic rename,Visits,6
 dynamic rename,Visits,6
@@ -15531,6 +17849,22 @@ dynamic rename,Visits,6
 dynamic rename,Visits,6
 dynamic rename,Visits,6
 dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+>>>>>>> main
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+dynamic rename,Visits,6
+<<<<<<< HEAD
 dynamic rename,Visits,612.79
 dynamic rename,Visits,612.79
 dynamic rename,Visits,618.31
@@ -15547,10 +17881,13 @@ dynamic rename,Visits,6451.46
 dynamic rename,Visits,6451.46
 dynamic rename,Visits,671.79
 dynamic rename,Visits,671.79
+=======
+>>>>>>> main
 dynamic rename,Visits,7
 dynamic rename,Visits,7
 dynamic rename,Visits,7
 dynamic rename,Visits,7
+<<<<<<< HEAD
 dynamic rename,Visits,7026.44
 dynamic rename,Visits,7026.44
 dynamic rename,Visits,745.65
@@ -15577,6 +17914,28 @@ dynamic rename,Visits,98.61
 dynamic rename,Visits,98.61
 dynamic rename,Visits,99.97
 dynamic rename,Visits,99.97
+=======
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,7
+dynamic rename,Visits,8
+dynamic rename,Visits,8
+dynamic rename,Visits,8
+dynamic rename,Visits,8
+dynamic rename,Visits,8
+dynamic rename,Visits,8
+>>>>>>> main
 dynamic rename,ZIP,
 dynamic rename,ZIP,
 dynamic rename,ZIP,
@@ -15667,6 +18026,7 @@ dynamic rename,ZIP,
 dynamic rename,ZIP,
 dynamic rename,ZIP,
 dynamic rename,ZIP,
+<<<<<<< HEAD
 dynamic rename,ZIP,1023
 dynamic rename,ZIP,1023
 dynamic rename,ZIP,1114
@@ -15843,6 +18203,12 @@ dynamic rename,ZIP,7529
 dynamic rename,ZIP,7529
 dynamic rename,ZIP,7997
 dynamic rename,ZIP,7997
+=======
+dynamic rename,ZIP,80003
+dynamic rename,ZIP,80003
+dynamic rename,ZIP,80003
+dynamic rename,ZIP,80003
+>>>>>>> main
 dynamic rename,ZIP,80003
 dynamic rename,ZIP,80003
 dynamic rename,ZIP,80003
@@ -15851,50 +18217,197 @@ dynamic rename,ZIP,80004
 dynamic rename,ZIP,80004
 dynamic rename,ZIP,80004
 dynamic rename,ZIP,80004
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80004
+dynamic rename,ZIP,80005
+dynamic rename,ZIP,80005
+dynamic rename,ZIP,80005
+dynamic rename,ZIP,80005
+dynamic rename,ZIP,80005
+dynamic rename,ZIP,80005
+>>>>>>> main
 dynamic rename,ZIP,80005
 dynamic rename,ZIP,80005
 dynamic rename,ZIP,80005
 dynamic rename,ZIP,80005
 dynamic rename,ZIP,80010
 dynamic rename,ZIP,80010
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80010
+dynamic rename,ZIP,80010
+dynamic rename,ZIP,80011
+dynamic rename,ZIP,80011
+dynamic rename,ZIP,80011
+dynamic rename,ZIP,80011
+dynamic rename,ZIP,80011
+dynamic rename,ZIP,80011
+>>>>>>> main
 dynamic rename,ZIP,80011
 dynamic rename,ZIP,80011
 dynamic rename,ZIP,80011
 dynamic rename,ZIP,80011
 dynamic rename,ZIP,80012
 dynamic rename,ZIP,80012
+<<<<<<< HEAD
 dynamic rename,ZIP,80013
 dynamic rename,ZIP,80013
 dynamic rename,ZIP,80015
 dynamic rename,ZIP,80015
+=======
+dynamic rename,ZIP,80012
+dynamic rename,ZIP,80012
+dynamic rename,ZIP,80012
+dynamic rename,ZIP,80012
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80013
+dynamic rename,ZIP,80014
+dynamic rename,ZIP,80014
+dynamic rename,ZIP,80014
+dynamic rename,ZIP,80014
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80015
+dynamic rename,ZIP,80016
+dynamic rename,ZIP,80016
+dynamic rename,ZIP,80017
+dynamic rename,ZIP,80017
+>>>>>>> main
 dynamic rename,ZIP,80017
 dynamic rename,ZIP,80017
 dynamic rename,ZIP,80018
 dynamic rename,ZIP,80018
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80018
+dynamic rename,ZIP,80018
+dynamic rename,ZIP,80020
+dynamic rename,ZIP,80020
+>>>>>>> main
 dynamic rename,ZIP,80020
 dynamic rename,ZIP,80020
 dynamic rename,ZIP,80031
 dynamic rename,ZIP,80031
+<<<<<<< HEAD
 dynamic rename,ZIP,80112
 dynamic rename,ZIP,80112
+=======
+dynamic rename,ZIP,80031
+dynamic rename,ZIP,80031
+dynamic rename,ZIP,80033
+dynamic rename,ZIP,80033
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80112
+dynamic rename,ZIP,80121
+dynamic rename,ZIP,80121
+>>>>>>> main
 dynamic rename,ZIP,80121
 dynamic rename,ZIP,80121
 dynamic rename,ZIP,80123
 dynamic rename,ZIP,80123
 dynamic rename,ZIP,80123
 dynamic rename,ZIP,80123
+<<<<<<< HEAD
 dynamic rename,ZIP,80127
 dynamic rename,ZIP,80127
 dynamic rename,ZIP,80207
 dynamic rename,ZIP,80207
+=======
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80123
+dynamic rename,ZIP,80127
+dynamic rename,ZIP,80127
+dynamic rename,ZIP,80127
+dynamic rename,ZIP,80127
+dynamic rename,ZIP,80128
+dynamic rename,ZIP,80128
+dynamic rename,ZIP,80134
+dynamic rename,ZIP,80134
+dynamic rename,ZIP,80134
+dynamic rename,ZIP,80134
+dynamic rename,ZIP,80206
+dynamic rename,ZIP,80206
+dynamic rename,ZIP,80207
+dynamic rename,ZIP,80207
+dynamic rename,ZIP,80207
+dynamic rename,ZIP,80207
+dynamic rename,ZIP,80209
+dynamic rename,ZIP,80209
+dynamic rename,ZIP,80210
+dynamic rename,ZIP,80210
+dynamic rename,ZIP,80211
+dynamic rename,ZIP,80211
+>>>>>>> main
 dynamic rename,ZIP,80211
 dynamic rename,ZIP,80211
 dynamic rename,ZIP,80212
 dynamic rename,ZIP,80212
 dynamic rename,ZIP,80212
 dynamic rename,ZIP,80212
+<<<<<<< HEAD
 dynamic rename,ZIP,80214
 dynamic rename,ZIP,80214
+=======
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80212
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80214
+dynamic rename,ZIP,80218
+dynamic rename,ZIP,80218
+>>>>>>> main
 dynamic rename,ZIP,80218
 dynamic rename,ZIP,80218
 dynamic rename,ZIP,80219
@@ -15907,36 +18420,120 @@ dynamic rename,ZIP,80219
 dynamic rename,ZIP,80219
 dynamic rename,ZIP,80219
 dynamic rename,ZIP,80219
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80219
+dynamic rename,ZIP,80220
+dynamic rename,ZIP,80220
+dynamic rename,ZIP,80220
+dynamic rename,ZIP,80220
+dynamic rename,ZIP,80220
+dynamic rename,ZIP,80220
+>>>>>>> main
 dynamic rename,ZIP,80220
 dynamic rename,ZIP,80220
 dynamic rename,ZIP,80221
 dynamic rename,ZIP,80221
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80221
+dynamic rename,ZIP,80221
+dynamic rename,ZIP,80222
+dynamic rename,ZIP,80222
+dynamic rename,ZIP,80224
+dynamic rename,ZIP,80224
+>>>>>>> main
 dynamic rename,ZIP,80224
 dynamic rename,ZIP,80224
 dynamic rename,ZIP,80226
 dynamic rename,ZIP,80226
 dynamic rename,ZIP,80226
 dynamic rename,ZIP,80226
+<<<<<<< HEAD
+=======
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80226
+dynamic rename,ZIP,80227
+dynamic rename,ZIP,80227
+>>>>>>> main
 dynamic rename,ZIP,80227
 dynamic rename,ZIP,80227
 dynamic rename,ZIP,80228
 dynamic rename,ZIP,80228
+<<<<<<< HEAD
 dynamic rename,ZIP,80229
 dynamic rename,ZIP,80229
+=======
+dynamic rename,ZIP,80228
+dynamic rename,ZIP,80228
+dynamic rename,ZIP,80229
+dynamic rename,ZIP,80229
+dynamic rename,ZIP,80229
+dynamic rename,ZIP,80229
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80231
+dynamic rename,ZIP,80232
+dynamic rename,ZIP,80232
+>>>>>>> main
 dynamic rename,ZIP,80232
 dynamic rename,ZIP,80232
 dynamic rename,ZIP,80233
 dynamic rename,ZIP,80233
+<<<<<<< HEAD
 dynamic rename,ZIP,80234
 dynamic rename,ZIP,80234
+=======
+dynamic rename,ZIP,80233
+dynamic rename,ZIP,80233
+dynamic rename,ZIP,80233
+dynamic rename,ZIP,80233
+dynamic rename,ZIP,80234
+dynamic rename,ZIP,80234
+dynamic rename,ZIP,80234
+dynamic rename,ZIP,80234
+dynamic rename,ZIP,80246
+dynamic rename,ZIP,80246
+dynamic rename,ZIP,80247
+dynamic rename,ZIP,80247
+dynamic rename,ZIP,80247
+dynamic rename,ZIP,80247
+dynamic rename,ZIP,80247
+dynamic rename,ZIP,80247
+>>>>>>> main
 dynamic rename,ZIP,80247
 dynamic rename,ZIP,80247
 dynamic rename,ZIP,80303
 dynamic rename,ZIP,80303
+<<<<<<< HEAD
 dynamic rename,ZIP,[Null]
 dynamic rename,ZIP,[Null]
 dynamic rename,ZIP,[Null]
 dynamic rename,ZIP,[Null]
+=======
+dynamic rename,ZIP,80303
+dynamic rename,ZIP,80303
+>>>>>>> main
 dynamic rename,ZIP_Code,
 dynamic rename,ZIP_Code,
 dynamic rename,ZIP_Code,
@@ -16207,6 +18804,7 @@ dynamic rename,ZIP_Code,
 dynamic rename,ZIP_Code,
 dynamic rename,ZIP_Code,
 dynamic rename,ZIP_Code,
+<<<<<<< HEAD
 dynamic rename,ZIP_Code,1023
 dynamic rename,ZIP_Code,1114
 dynamic rename,ZIP_Code,1128
@@ -16297,6 +18895,98 @@ dynamic rename,ZIP_Code,7529
 dynamic rename,ZIP_Code,7997
 dynamic rename,ZIP_Code,[Null]
 dynamic rename,ZIP_Code,[Null]
+=======
+dynamic rename,ZIP_Code,80003
+dynamic rename,ZIP_Code,80003
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80004
+dynamic rename,ZIP_Code,80005
+dynamic rename,ZIP_Code,80005
+dynamic rename,ZIP_Code,80005
+dynamic rename,ZIP_Code,80010
+dynamic rename,ZIP_Code,80011
+dynamic rename,ZIP_Code,80011
+dynamic rename,ZIP_Code,80011
+dynamic rename,ZIP_Code,80012
+dynamic rename,ZIP_Code,80012
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80013
+dynamic rename,ZIP_Code,80014
+dynamic rename,ZIP_Code,80014
+dynamic rename,ZIP_Code,80015
+dynamic rename,ZIP_Code,80015
+dynamic rename,ZIP_Code,80015
+dynamic rename,ZIP_Code,80015
+dynamic rename,ZIP_Code,80016
+dynamic rename,ZIP_Code,80017
+dynamic rename,ZIP_Code,80018
+dynamic rename,ZIP_Code,80020
+dynamic rename,ZIP_Code,80031
+dynamic rename,ZIP_Code,80033
+dynamic rename,ZIP_Code,80112
+dynamic rename,ZIP_Code,80112
+dynamic rename,ZIP_Code,80121
+dynamic rename,ZIP_Code,80123
+dynamic rename,ZIP_Code,80123
+dynamic rename,ZIP_Code,80123
+dynamic rename,ZIP_Code,80127
+dynamic rename,ZIP_Code,80128
+dynamic rename,ZIP_Code,80134
+dynamic rename,ZIP_Code,80134
+dynamic rename,ZIP_Code,80206
+dynamic rename,ZIP_Code,80207
+dynamic rename,ZIP_Code,80209
+dynamic rename,ZIP_Code,80210
+dynamic rename,ZIP_Code,80211
+dynamic rename,ZIP_Code,80212
+dynamic rename,ZIP_Code,80212
+dynamic rename,ZIP_Code,80212
+dynamic rename,ZIP_Code,80214
+dynamic rename,ZIP_Code,80214
+dynamic rename,ZIP_Code,80214
+dynamic rename,ZIP_Code,80214
+dynamic rename,ZIP_Code,80218
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80219
+dynamic rename,ZIP_Code,80220
+dynamic rename,ZIP_Code,80220
+dynamic rename,ZIP_Code,80220
+dynamic rename,ZIP_Code,80221
+dynamic rename,ZIP_Code,80222
+dynamic rename,ZIP_Code,80224
+dynamic rename,ZIP_Code,80226
+dynamic rename,ZIP_Code,80226
+dynamic rename,ZIP_Code,80226
+dynamic rename,ZIP_Code,80227
+dynamic rename,ZIP_Code,80228
+dynamic rename,ZIP_Code,80229
+dynamic rename,ZIP_Code,80231
+dynamic rename,ZIP_Code,80231
+dynamic rename,ZIP_Code,80231
+dynamic rename,ZIP_Code,80232
+dynamic rename,ZIP_Code,80233
+dynamic rename,ZIP_Code,80233
+dynamic rename,ZIP_Code,80234
+dynamic rename,ZIP_Code,80246
+dynamic rename,ZIP_Code,80247
+dynamic rename,ZIP_Code,80247
+dynamic rename,ZIP_Code,80247
+dynamic rename,ZIP_Code,80303
+>>>>>>> main
 dynamic rename,Zip4,
 dynamic rename,Zip4,
 dynamic rename,Zip4,
@@ -16387,6 +19077,7 @@ dynamic rename,Zip4,
 dynamic rename,Zip4,
 dynamic rename,Zip4,
 dynamic rename,Zip4,
+<<<<<<< HEAD
 dynamic rename,Zip4,100
 dynamic rename,Zip4,100
 dynamic rename,Zip4,100
@@ -16571,92 +19262,351 @@ dynamic rename,Zip4,109
 dynamic rename,Zip4,109
 dynamic rename,Zip4,1114
 dynamic rename,Zip4,1114
+=======
+dynamic rename,Zip4,1023
+dynamic rename,Zip4,1023
+dynamic rename,Zip4,1023
+dynamic rename,Zip4,1023
+dynamic rename,Zip4,1114
+dynamic rename,Zip4,1114
+dynamic rename,Zip4,1114
+dynamic rename,Zip4,1114
+dynamic rename,Zip4,1128
+dynamic rename,Zip4,1128
+dynamic rename,Zip4,1132
+dynamic rename,Zip4,1132
+dynamic rename,Zip4,1228
+dynamic rename,Zip4,1228
+>>>>>>> main
 dynamic rename,Zip4,1228
 dynamic rename,Zip4,1228
 dynamic rename,Zip4,1248
 dynamic rename,Zip4,1248
+<<<<<<< HEAD
 dynamic rename,Zip4,1265
 dynamic rename,Zip4,1265
+=======
+dynamic rename,Zip4,1248
+dynamic rename,Zip4,1248
+dynamic rename,Zip4,1265
+dynamic rename,Zip4,1265
+dynamic rename,Zip4,1265
+dynamic rename,Zip4,1265
+dynamic rename,Zip4,1426
+dynamic rename,Zip4,1426
+dynamic rename,Zip4,1507
+dynamic rename,Zip4,1507
+dynamic rename,Zip4,1530
+dynamic rename,Zip4,1530
+>>>>>>> main
 dynamic rename,Zip4,1530
 dynamic rename,Zip4,1530
 dynamic rename,Zip4,1567
 dynamic rename,Zip4,1567
+<<<<<<< HEAD
 dynamic rename,Zip4,1574
 dynamic rename,Zip4,1574
 dynamic rename,Zip4,1859
 dynamic rename,Zip4,1859
+=======
+dynamic rename,Zip4,1567
+dynamic rename,Zip4,1567
+dynamic rename,Zip4,1574
+dynamic rename,Zip4,1574
+dynamic rename,Zip4,1574
+dynamic rename,Zip4,1574
+dynamic rename,Zip4,1726
+dynamic rename,Zip4,1726
+dynamic rename,Zip4,1837
+dynamic rename,Zip4,1837
+dynamic rename,Zip4,1837
+dynamic rename,Zip4,1837
+dynamic rename,Zip4,1859
+dynamic rename,Zip4,1859
+dynamic rename,Zip4,1859
+dynamic rename,Zip4,1859
+dynamic rename,Zip4,1902
+dynamic rename,Zip4,1902
+dynamic rename,Zip4,1966
+dynamic rename,Zip4,1966
+dynamic rename,Zip4,1980
+dynamic rename,Zip4,1980
+dynamic rename,Zip4,2119
+dynamic rename,Zip4,2119
+dynamic rename,Zip4,2145
+dynamic rename,Zip4,2145
+>>>>>>> main
 dynamic rename,Zip4,2145
 dynamic rename,Zip4,2145
 dynamic rename,Zip4,2220
 dynamic rename,Zip4,2220
+<<<<<<< HEAD
+=======
+dynamic rename,Zip4,2220
+dynamic rename,Zip4,2220
+dynamic rename,Zip4,2223
+dynamic rename,Zip4,2223
+dynamic rename,Zip4,2248
+dynamic rename,Zip4,2248
+>>>>>>> main
 dynamic rename,Zip4,2248
 dynamic rename,Zip4,2248
 dynamic rename,Zip4,2251
 dynamic rename,Zip4,2251
+<<<<<<< HEAD
 dynamic rename,Zip4,2295
 dynamic rename,Zip4,2295
 dynamic rename,Zip4,2448
 dynamic rename,Zip4,2448
 dynamic rename,Zip4,2503
 dynamic rename,Zip4,2503
+=======
+dynamic rename,Zip4,2251
+dynamic rename,Zip4,2251
+dynamic rename,Zip4,2295
+dynamic rename,Zip4,2295
+dynamic rename,Zip4,2295
+dynamic rename,Zip4,2295
+dynamic rename,Zip4,2336
+dynamic rename,Zip4,2336
+dynamic rename,Zip4,2374
+dynamic rename,Zip4,2374
+dynamic rename,Zip4,2428
+dynamic rename,Zip4,2428
+dynamic rename,Zip4,2448
+dynamic rename,Zip4,2448
+dynamic rename,Zip4,2448
+dynamic rename,Zip4,2448
+dynamic rename,Zip4,2453
+dynamic rename,Zip4,2453
+dynamic rename,Zip4,2503
+dynamic rename,Zip4,2503
+dynamic rename,Zip4,2503
+dynamic rename,Zip4,2503
+dynamic rename,Zip4,2684
+dynamic rename,Zip4,2684
+dynamic rename,Zip4,2691
+dynamic rename,Zip4,2691
+dynamic rename,Zip4,2710
+dynamic rename,Zip4,2710
+>>>>>>> main
 dynamic rename,Zip4,2710
 dynamic rename,Zip4,2710
 dynamic rename,Zip4,2714
 dynamic rename,Zip4,2714
+<<<<<<< HEAD
+=======
+dynamic rename,Zip4,2714
+dynamic rename,Zip4,2714
+dynamic rename,Zip4,2759
+dynamic rename,Zip4,2759
+dynamic rename,Zip4,2777
+dynamic rename,Zip4,2777
+>>>>>>> main
 dynamic rename,Zip4,2777
 dynamic rename,Zip4,2777
 dynamic rename,Zip4,2832
 dynamic rename,Zip4,2832
+<<<<<<< HEAD
+=======
+dynamic rename,Zip4,2832
+dynamic rename,Zip4,2832
+dynamic rename,Zip4,2948
+dynamic rename,Zip4,2948
+>>>>>>> main
 dynamic rename,Zip4,2948
 dynamic rename,Zip4,2948
 dynamic rename,Zip4,3007
 dynamic rename,Zip4,3007
+<<<<<<< HEAD
+=======
+dynamic rename,Zip4,3007
+dynamic rename,Zip4,3007
+dynamic rename,Zip4,3015
+dynamic rename,Zip4,3015
+dynamic rename,Zip4,3024
+dynamic rename,Zip4,3024
+dynamic rename,Zip4,3042
+dynamic rename,Zip4,3042
+dynamic rename,Zip4,3176
+dynamic rename,Zip4,3176
+>>>>>>> main
 dynamic rename,Zip4,3176
 dynamic rename,Zip4,3176
 dynamic rename,Zip4,3240
 dynamic rename,Zip4,3240
+<<<<<<< HEAD
+=======
+dynamic rename,Zip4,3240
+dynamic rename,Zip4,3240
+dynamic rename,Zip4,3303
+dynamic rename,Zip4,3303
+dynamic rename,Zip4,3405
+dynamic rename,Zip4,3405
+>>>>>>> main
 dynamic rename,Zip4,3405
 dynamic rename,Zip4,3405
 dynamic rename,Zip4,3486
 dynamic rename,Zip4,3486
+<<<<<<< HEAD
 dynamic rename,Zip4,3533
 dynamic rename,Zip4,3533
+=======
+dynamic rename,Zip4,3486
+dynamic rename,Zip4,3486
+dynamic rename,Zip4,3533
+dynamic rename,Zip4,3533
+dynamic rename,Zip4,3533
+dynamic rename,Zip4,3533
+dynamic rename,Zip4,3544
+dynamic rename,Zip4,3544
+dynamic rename,Zip4,3545
+dynamic rename,Zip4,3545
+>>>>>>> main
 dynamic rename,Zip4,3545
 dynamic rename,Zip4,3545
 dynamic rename,Zip4,3621
 dynamic rename,Zip4,3621
+<<<<<<< HEAD
 dynamic rename,Zip4,3835
 dynamic rename,Zip4,3835
+=======
+dynamic rename,Zip4,3621
+dynamic rename,Zip4,3621
+dynamic rename,Zip4,3835
+dynamic rename,Zip4,3835
+dynamic rename,Zip4,3835
+dynamic rename,Zip4,3835
+dynamic rename,Zip4,3938
+dynamic rename,Zip4,3938
+dynamic rename,Zip4,3948
+dynamic rename,Zip4,3948
+dynamic rename,Zip4,4026
+dynamic rename,Zip4,4026
+>>>>>>> main
 dynamic rename,Zip4,4026
 dynamic rename,Zip4,4026
 dynamic rename,Zip4,4051
 dynamic rename,Zip4,4051
+<<<<<<< HEAD
 dynamic rename,Zip4,4312
 dynamic rename,Zip4,4312
 dynamic rename,Zip4,4440
 dynamic rename,Zip4,4440
 dynamic rename,Zip4,4620
 dynamic rename,Zip4,4620
+=======
+dynamic rename,Zip4,4051
+dynamic rename,Zip4,4051
+dynamic rename,Zip4,4051
+dynamic rename,Zip4,4051
+dynamic rename,Zip4,4187
+dynamic rename,Zip4,4187
+dynamic rename,Zip4,4205
+dynamic rename,Zip4,4205
+dynamic rename,Zip4,4312
+dynamic rename,Zip4,4312
+dynamic rename,Zip4,4312
+dynamic rename,Zip4,4312
+dynamic rename,Zip4,4411
+dynamic rename,Zip4,4411
+dynamic rename,Zip4,4440
+dynamic rename,Zip4,4440
+dynamic rename,Zip4,4440
+dynamic rename,Zip4,4440
+dynamic rename,Zip4,4494
+dynamic rename,Zip4,4494
+dynamic rename,Zip4,4620
+dynamic rename,Zip4,4620
+dynamic rename,Zip4,4620
+dynamic rename,Zip4,4620
+dynamic rename,Zip4,4629
+dynamic rename,Zip4,4629
+dynamic rename,Zip4,4660
+dynamic rename,Zip4,4660
+>>>>>>> main
 dynamic rename,Zip4,4660
 dynamic rename,Zip4,4660
 dynamic rename,Zip4,4735
 dynamic rename,Zip4,4735
+<<<<<<< HEAD
 dynamic rename,Zip4,4829
 dynamic rename,Zip4,4829
 dynamic rename,Zip4,5228
 dynamic rename,Zip4,5228
 dynamic rename,Zip4,5409
 dynamic rename,Zip4,5409
+=======
+dynamic rename,Zip4,4735
+dynamic rename,Zip4,4735
+dynamic rename,Zip4,4829
+dynamic rename,Zip4,4829
+dynamic rename,Zip4,4829
+dynamic rename,Zip4,4829
+dynamic rename,Zip4,5220
+dynamic rename,Zip4,5220
+dynamic rename,Zip4,5228
+dynamic rename,Zip4,5228
+dynamic rename,Zip4,5228
+dynamic rename,Zip4,5228
+dynamic rename,Zip4,5231
+dynamic rename,Zip4,5231
+dynamic rename,Zip4,5256
+dynamic rename,Zip4,5256
+dynamic rename,Zip4,5409
+dynamic rename,Zip4,5409
+dynamic rename,Zip4,5409
+dynamic rename,Zip4,5409
+dynamic rename,Zip4,5488
+dynamic rename,Zip4,5488
+dynamic rename,Zip4,5722
+dynamic rename,Zip4,5722
+dynamic rename,Zip4,5836
+dynamic rename,Zip4,5836
+>>>>>>> main
 dynamic rename,Zip4,5836
 dynamic rename,Zip4,5836
 dynamic rename,Zip4,5901
 dynamic rename,Zip4,5901
+<<<<<<< HEAD
 dynamic rename,Zip4,6265
 dynamic rename,Zip4,6265
 dynamic rename,Zip4,6479
 dynamic rename,Zip4,6479
 dynamic rename,Zip4,7529
 dynamic rename,Zip4,7529
+=======
+dynamic rename,Zip4,5901
+dynamic rename,Zip4,5901
+dynamic rename,Zip4,6059
+dynamic rename,Zip4,6059
+dynamic rename,Zip4,6265
+dynamic rename,Zip4,6265
+dynamic rename,Zip4,6265
+dynamic rename,Zip4,6265
+dynamic rename,Zip4,6426
+dynamic rename,Zip4,6426
+dynamic rename,Zip4,6479
+dynamic rename,Zip4,6479
+dynamic rename,Zip4,6479
+dynamic rename,Zip4,6479
+dynamic rename,Zip4,6527
+dynamic rename,Zip4,6527
+dynamic rename,Zip4,6624
+dynamic rename,Zip4,6624
+dynamic rename,Zip4,7130
+dynamic rename,Zip4,7130
+dynamic rename,Zip4,7529
+dynamic rename,Zip4,7529
+dynamic rename,Zip4,7529
+dynamic rename,Zip4,7529
+dynamic rename,Zip4,7997
+dynamic rename,Zip4,7997
+dynamic rename,Zip4,[Null]
+dynamic rename,Zip4,[Null]
+dynamic rename,Zip4,[Null]
+dynamic rename,Zip4,[Null]
+>>>>>>> main
 dynamic rename,Zip4_Code,
 dynamic rename,Zip4_Code,
 dynamic rename,Zip4_Code,
@@ -16927,6 +19877,7 @@ dynamic rename,Zip4_Code,
 dynamic rename,Zip4_Code,
 dynamic rename,Zip4_Code,
 dynamic rename,Zip4_Code,
+<<<<<<< HEAD
 dynamic rename,Zip4_Code,100
 dynamic rename,Zip4_Code,100
 dynamic rename,Zip4_Code,100
@@ -17017,6 +19968,98 @@ dynamic rename,Zip4_Code,109
 dynamic rename,Zip4_Code,109
 dynamic rename,Zip4_Code,109
 dynamic rename,Zip4_Code,109
+=======
+dynamic rename,Zip4_Code,1023
+dynamic rename,Zip4_Code,1114
+dynamic rename,Zip4_Code,1128
+dynamic rename,Zip4_Code,1132
+dynamic rename,Zip4_Code,1228
+dynamic rename,Zip4_Code,1248
+dynamic rename,Zip4_Code,1265
+dynamic rename,Zip4_Code,1426
+dynamic rename,Zip4_Code,1507
+dynamic rename,Zip4_Code,1530
+dynamic rename,Zip4_Code,1567
+dynamic rename,Zip4_Code,1574
+dynamic rename,Zip4_Code,1726
+dynamic rename,Zip4_Code,1837
+dynamic rename,Zip4_Code,1837
+dynamic rename,Zip4_Code,1859
+dynamic rename,Zip4_Code,1902
+dynamic rename,Zip4_Code,1966
+dynamic rename,Zip4_Code,1980
+dynamic rename,Zip4_Code,2119
+dynamic rename,Zip4_Code,2145
+dynamic rename,Zip4_Code,2220
+dynamic rename,Zip4_Code,2223
+dynamic rename,Zip4_Code,2248
+dynamic rename,Zip4_Code,2251
+dynamic rename,Zip4_Code,2295
+dynamic rename,Zip4_Code,2336
+dynamic rename,Zip4_Code,2374
+dynamic rename,Zip4_Code,2428
+dynamic rename,Zip4_Code,2448
+dynamic rename,Zip4_Code,2453
+dynamic rename,Zip4_Code,2503
+dynamic rename,Zip4_Code,2684
+dynamic rename,Zip4_Code,2691
+dynamic rename,Zip4_Code,2710
+dynamic rename,Zip4_Code,2714
+dynamic rename,Zip4_Code,2759
+dynamic rename,Zip4_Code,2777
+dynamic rename,Zip4_Code,2832
+dynamic rename,Zip4_Code,2948
+dynamic rename,Zip4_Code,3007
+dynamic rename,Zip4_Code,3015
+dynamic rename,Zip4_Code,3024
+dynamic rename,Zip4_Code,3042
+dynamic rename,Zip4_Code,3176
+dynamic rename,Zip4_Code,3240
+dynamic rename,Zip4_Code,3303
+dynamic rename,Zip4_Code,3405
+dynamic rename,Zip4_Code,3486
+dynamic rename,Zip4_Code,3533
+dynamic rename,Zip4_Code,3544
+dynamic rename,Zip4_Code,3545
+dynamic rename,Zip4_Code,3621
+dynamic rename,Zip4_Code,3835
+dynamic rename,Zip4_Code,3938
+dynamic rename,Zip4_Code,3948
+dynamic rename,Zip4_Code,4026
+dynamic rename,Zip4_Code,4051
+dynamic rename,Zip4_Code,4051
+dynamic rename,Zip4_Code,4187
+dynamic rename,Zip4_Code,4205
+dynamic rename,Zip4_Code,4312
+dynamic rename,Zip4_Code,4411
+dynamic rename,Zip4_Code,4440
+dynamic rename,Zip4_Code,4494
+dynamic rename,Zip4_Code,4620
+dynamic rename,Zip4_Code,4629
+dynamic rename,Zip4_Code,4660
+dynamic rename,Zip4_Code,4735
+dynamic rename,Zip4_Code,4829
+dynamic rename,Zip4_Code,5220
+dynamic rename,Zip4_Code,5228
+dynamic rename,Zip4_Code,5231
+dynamic rename,Zip4_Code,5256
+dynamic rename,Zip4_Code,5409
+dynamic rename,Zip4_Code,5488
+dynamic rename,Zip4_Code,5722
+dynamic rename,Zip4_Code,5836
+dynamic rename,Zip4_Code,5901
+dynamic rename,Zip4_Code,6059
+dynamic rename,Zip4_Code,6265
+dynamic rename,Zip4_Code,6426
+dynamic rename,Zip4_Code,6479
+dynamic rename,Zip4_Code,6527
+dynamic rename,Zip4_Code,6624
+dynamic rename,Zip4_Code,7130
+dynamic rename,Zip4_Code,7529
+dynamic rename,Zip4_Code,7997
+dynamic rename,Zip4_Code,[Null]
+dynamic rename,Zip4_Code,[Null]
+>>>>>>> main
 find replace,acct_holder,BROWNSVILLE DEPARTMENT OF REVENUE
 find replace,acct_holder,BROWNSVILLE DEPARTMENT OF REVENUE
 find replace,acct_holder,BROWNSVILLE DEPARTMENT OF REVENUE
@@ -18473,6 +21516,7 @@ imputation,2012_sales,
 imputation,2012_sales,
 imputation,2012_sales,
 imputation,2012_sales,
+<<<<<<< HEAD
 imputation,2012_sales,0.0
 imputation,2012_sales,0.0
 imputation,2012_sales,300.0
@@ -18489,6 +21533,24 @@ imputation,2012_sales,892.0
 imputation,2012_sales,892.0
 imputation,2012_sales,892.0
 imputation,2012_sales,892.0
+=======
+imputation,2012_sales,0
+imputation,2012_sales,0
+imputation,2012_sales,300
+imputation,2012_sales,300
+imputation,2012_sales,300
+imputation,2012_sales,605
+imputation,2012_sales,605
+imputation,2012_sales,624
+imputation,2012_sales,624
+imputation,2012_sales,624
+imputation,2012_sales,624
+imputation,2012_sales,624
+imputation,2012_sales,892
+imputation,2012_sales,892
+imputation,2012_sales,892
+imputation,2012_sales,892
+>>>>>>> main
 imputation,2012_sales_ImputedValue,
 imputation,2012_sales_ImputedValue,
 imputation,2012_sales_ImputedValue,
@@ -18531,6 +21593,7 @@ imputation,2012_sales_Indicator,0
 imputation,2012_sales_Indicator,1
 imputation,2013_sales,
 imputation,2013_sales,
+<<<<<<< HEAD
 imputation,2013_sales,0.0
 imputation,2013_sales,1251.0
 imputation,2013_sales,1251.0
@@ -18549,6 +21612,26 @@ imputation,2013_sales,42.0
 imputation,2013_sales,42.0
 imputation,2013_sales,42.0
 imputation,2013_sales,42.0
+=======
+imputation,2013_sales,0
+imputation,2013_sales,1251
+imputation,2013_sales,1251
+imputation,2013_sales,1251
+imputation,2013_sales,1251
+imputation,2013_sales,171
+imputation,2013_sales,23
+imputation,2013_sales,23
+imputation,2013_sales,23
+imputation,2013_sales,23
+imputation,2013_sales,300
+imputation,2013_sales,300
+imputation,2013_sales,300
+imputation,2013_sales,404
+imputation,2013_sales,42
+imputation,2013_sales,42
+imputation,2013_sales,42
+imputation,2013_sales,42
+>>>>>>> main
 imputation,2013_sales_ImputedValue,
 imputation,2013_sales_ImputedValue,
 imputation,2013_sales_ImputedValue,
@@ -18591,6 +21674,7 @@ imputation,2013_sales_Indicator,0
 imputation,2013_sales_Indicator,1
 imputation,2014_sales,
 imputation,2014_sales,
+<<<<<<< HEAD
 imputation,2014_sales,0.0
 imputation,2014_sales,1582.0
 imputation,2014_sales,1582.0
@@ -18609,6 +21693,26 @@ imputation,2014_sales,98.0
 imputation,2014_sales,98.0
 imputation,2014_sales,98.0
 imputation,2014_sales,98.0
+=======
+imputation,2014_sales,0
+imputation,2014_sales,1582
+imputation,2014_sales,1582
+imputation,2014_sales,1582
+imputation,2014_sales,1582
+imputation,2014_sales,168
+imputation,2014_sales,168
+imputation,2014_sales,168
+imputation,2014_sales,168
+imputation,2014_sales,234
+imputation,2014_sales,300
+imputation,2014_sales,300
+imputation,2014_sales,300
+imputation,2014_sales,537
+imputation,2014_sales,98
+imputation,2014_sales,98
+imputation,2014_sales,98
+imputation,2014_sales,98
+>>>>>>> main
 imputation,2014_sales_ImputedValue,
 imputation,2014_sales_ImputedValue,
 imputation,2014_sales_ImputedValue,
@@ -18649,6 +21753,7 @@ imputation,2014_sales_Indicator,0
 imputation,2014_sales_Indicator,0
 imputation,2014_sales_Indicator,0
 imputation,2014_sales_Indicator,1
+<<<<<<< HEAD
 imputation,item_id,1.0
 imputation,item_id,1.0
 imputation,item_id,1.0
@@ -18669,6 +21774,28 @@ imputation,item_id,5.0
 imputation,item_id,5.0
 imputation,item_id,5.0
 imputation,item_id,5.0
+=======
+imputation,item_id,1
+imputation,item_id,1
+imputation,item_id,1
+imputation,item_id,1
+imputation,item_id,2
+imputation,item_id,2
+imputation,item_id,2
+imputation,item_id,2
+imputation,item_id,3
+imputation,item_id,3
+imputation,item_id,3
+imputation,item_id,3
+imputation,item_id,4
+imputation,item_id,4
+imputation,item_id,4
+imputation,item_id,4
+imputation,item_id,5
+imputation,item_id,5
+imputation,item_id,5
+imputation,item_id,5
+>>>>>>> main
 imputation,item_id_ImputedValue,
 imputation,item_id_ImputedValue,
 imputation,item_id_ImputedValue,
@@ -19214,6 +22341,7 @@ multi field binning weird,Field1_Tile_Num,313
 multi field binning weird,Field1_Tile_Num,4
 multi field binning weird,Field1_Tile_Num,4
 multi field binning weird,Field1_Tile_Num,4
+<<<<<<< HEAD
 multi field binning weird,Field2,0.0
 multi field binning weird,Field2,0.0
 multi field binning weird,Field2,0.0
@@ -19222,10 +22350,21 @@ multi field binning weird,Field2,1.0
 multi field binning weird,Field2,1.0
 multi field binning weird,Field2,1.0
 multi field binning weird,Field2,1.0
+=======
+multi field binning weird,Field2,0
+multi field binning weird,Field2,0
+multi field binning weird,Field2,0
+multi field binning weird,Field2,0
+multi field binning weird,Field2,1
+multi field binning weird,Field2,1
+multi field binning weird,Field2,1
+multi field binning weird,Field2,1
+>>>>>>> main
 multi field binning weird,Field2,2.3334
 multi field binning weird,Field2,2.3334
 multi field binning weird,Field2,2.3334
 multi field binning weird,Field2,2.3334
+<<<<<<< HEAD
 multi field binning weird,Field2,3.0
 multi field binning weird,Field2,3.0
 multi field binning weird,Field2,3.0
@@ -19246,6 +22385,28 @@ multi field binning weird,Field2,7.0
 multi field binning weird,Field2,7.0
 multi field binning weird,Field2,7.0
 multi field binning weird,Field2,7.0
+=======
+multi field binning weird,Field2,3
+multi field binning weird,Field2,3
+multi field binning weird,Field2,3
+multi field binning weird,Field2,3
+multi field binning weird,Field2,4
+multi field binning weird,Field2,4
+multi field binning weird,Field2,4
+multi field binning weird,Field2,4
+multi field binning weird,Field2,5
+multi field binning weird,Field2,5
+multi field binning weird,Field2,5
+multi field binning weird,Field2,5
+multi field binning weird,Field2,6
+multi field binning weird,Field2,6
+multi field binning weird,Field2,6
+multi field binning weird,Field2,6
+multi field binning weird,Field2,7
+multi field binning weird,Field2,7
+multi field binning weird,Field2,7
+multi field binning weird,Field2,7
+>>>>>>> main
 multi field binning weird,Field2_Tile_Num,1
 multi field binning weird,Field2_Tile_Num,1
 multi field binning weird,Field2_Tile_Num,1
@@ -19642,16 +22803,27 @@ multi field binning,Commercial Sales 2015_Tile_Num,3
 multi field binning,Commercial Sales 2015_Tile_Num,3
 multi field binning,Commercial Sales 2015_Tile_Num,3
 multi field binning,Commercial Sales 2015_Tile_Num,3
+<<<<<<< HEAD
+=======
+multi field binning,Employee,"""Aidan O'Rourke"""
+multi field binning,Employee,"""Aidan O'Rourke"""
+multi field binning,Employee,"""Aidan O'Rourke"""
+multi field binning,Employee,"""Aidan O'Rourke"""
+multi field binning,Employee,"""Aidan O'Rourke"""
+>>>>>>> main
 multi field binning,Employee,Aditya Patel
 multi field binning,Employee,Aditya Patel
 multi field binning,Employee,Aditya Patel
 multi field binning,Employee,Aditya Patel
 multi field binning,Employee,Aditya Patel
+<<<<<<< HEAD
 multi field binning,Employee,Aidan O'Rourke
 multi field binning,Employee,Aidan O'Rourke
 multi field binning,Employee,Aidan O'Rourke
 multi field binning,Employee,Aidan O'Rourke
 multi field binning,Employee,Aidan O'Rourke
+=======
+>>>>>>> main
 multi field binning,Employee,Andrew Newsome
 multi field binning,Employee,Andrew Newsome
 multi field binning,Employee,Andrew Newsome
@@ -20142,6 +23314,7 @@ multi field binning,Other Sales 2015,98798
 multi field binning,Other Sales 2015,98798
 multi field binning,Other Sales 2015,98798
 multi field binning,Other Sales 2015,98798
+<<<<<<< HEAD
 multi field formula,ADDRESS,
 multi field formula,ADDRESS,
 multi field formula,ADDRESS,
@@ -20181,6 +23354,47 @@ multi field formula,ADDRESS,900 CAMEL DR
 multi field formula,ADDRESS,900 Camel Dr
 multi field formula,ADDRESS,932 MAIN ST
 multi field formula,ADDRESS,932 Main St
+=======
+multi field formula,ADDRESS,123 S 2ND ST
+multi field formula,ADDRESS,123 S 2nd St
+multi field formula,ADDRESS,123 S 2nd St
+multi field formula,ADDRESS,1400 DELL RANGE BLVD
+multi field formula,ADDRESS,1400 Dell Range Blvd
+multi field formula,ADDRESS,1400 Dell Range Blvd
+multi field formula,ADDRESS,180 S BENT ST
+multi field formula,ADDRESS,180 S Bent St
+multi field formula,ADDRESS,180 S Bent St
+multi field formula,ADDRESS,1842 SUGARLAND DR STE 113
+multi field formula,ADDRESS,1842 Sugarland Dr Ste 113
+multi field formula,ADDRESS,1842 Sugarland Dr Ste 113
+multi field formula,ADDRESS,200 E LAKEWAY RD
+multi field formula,ADDRESS,200 E Lakeway Rd
+multi field formula,ADDRESS,200 E Lakeway Rd
+multi field formula,ADDRESS,2625 BIG HORN AVE
+multi field formula,ADDRESS,2625 Big Horn Ave
+multi field formula,ADDRESS,2625 Big Horn Ave
+multi field formula,ADDRESS,2706 COMMERCIAL WAY
+multi field formula,ADDRESS,2706 Commercial Way
+multi field formula,ADDRESS,2706 Commercial Way
+multi field formula,ADDRESS,3769 E LINCOLNWAY
+multi field formula,ADDRESS,3769 E Lincolnway
+multi field formula,ADDRESS,3769 E Lincolnway
+multi field formula,ADDRESS,509 FORT ST # A
+multi field formula,ADDRESS,509 Fort St # A
+multi field formula,ADDRESS,509 Fort St # A
+multi field formula,ADDRESS,512 E MAIN ST
+multi field formula,ADDRESS,512 E Main St
+multi field formula,ADDRESS,512 E Main St
+multi field formula,ADDRESS,601 SE WYOMING BLVD UNIT 252
+multi field formula,ADDRESS,601 SE Wyoming Blvd Unit 252
+multi field formula,ADDRESS,601 SE Wyoming Blvd Unit 252
+multi field formula,ADDRESS,900 CAMEL DR
+multi field formula,ADDRESS,900 Camel Dr
+multi field formula,ADDRESS,900 Camel Dr
+multi field formula,ADDRESS,932 MAIN ST
+multi field formula,ADDRESS,932 Main St
+multi field formula,ADDRESS,932 Main St
+>>>>>>> main
 multi field formula,April % Total,
 multi field formula,April % Total,
 multi field formula,April % Total,
@@ -20207,6 +23421,7 @@ multi field formula,April % Total,
 multi field formula,April % Total,
 multi field formula,April % Total,
 multi field formula,April % Total,
+<<<<<<< HEAD
 multi field formula,April % Total,7.147862648913805
 multi field formula,April % Total,7.838660578386605
 multi field formula,April % Total,7.84789644012945
@@ -20233,30 +23448,75 @@ multi field formula,April,
 multi field formula,April,
 multi field formula,April,
 multi field formula,April,
+=======
+multi field formula,April % Total,7.1
+multi field formula,April % Total,7.8
+multi field formula,April % Total,7.8
+multi field formula,April % Total,8.2
+multi field formula,April % Total,8.3
+multi field formula,April % Total,8.3
+multi field formula,April % Total,8.5
+multi field formula,April % Total,8.7
+multi field formula,April % Total,8.8
+multi field formula,April % Total,9.0
+multi field formula,April % Total,9.0
+multi field formula,April % Total,9.2
+multi field formula,April % Total,9.2
+multi field formula,April,102000
+multi field formula,April,102000
+>>>>>>> main
 multi field formula,April,102000
 multi field formula,April,102000
 multi field formula,April,102000
 multi field formula,April,102000
 multi field formula,April,103000
 multi field formula,April,103000
+<<<<<<< HEAD
+=======
+multi field formula,April,103000
+multi field formula,April,116000
+>>>>>>> main
 multi field formula,April,116000
 multi field formula,April,116000
 multi field formula,April,124000
 multi field formula,April,124000
+<<<<<<< HEAD
+=======
+multi field formula,April,124000
+multi field formula,April,128000
+>>>>>>> main
 multi field formula,April,128000
 multi field formula,April,128000
 multi field formula,April,143000
 multi field formula,April,143000
+<<<<<<< HEAD
+=======
+multi field formula,April,143000
+multi field formula,April,174000
+>>>>>>> main
 multi field formula,April,174000
 multi field formula,April,174000
 multi field formula,April,216000
 multi field formula,April,216000
+<<<<<<< HEAD
+=======
+multi field formula,April,216000
+multi field formula,April,79000
+>>>>>>> main
 multi field formula,April,79000
 multi field formula,April,79000
 multi field formula,April,84000
 multi field formula,April,84000
+<<<<<<< HEAD
 multi field formula,April,97000
 multi field formula,April,97000
+=======
+multi field formula,April,84000
+multi field formula,April,97000
+multi field formula,April,97000
+multi field formula,April,97000
+multi field formula,April,98000
+>>>>>>> main
 multi field formula,April,98000
 multi field formula,April,98000
 multi field formula,August % Total,
@@ -20285,6 +23545,7 @@ multi field formula,August % Total,
 multi field formula,August % Total,
 multi field formula,August % Total,
 multi field formula,August % Total,
+<<<<<<< HEAD
 multi field formula,August % Total,10.372960372960373
 multi field formula,August % Total,6.587245970567625
 multi field formula,August % Total,7.238883143743537
@@ -20311,32 +23572,73 @@ multi field formula,August,
 multi field formula,August,
 multi field formula,August,
 multi field formula,August,
+=======
+multi field formula,August % Total,10.4
+multi field formula,August % Total,6.6
+multi field formula,August % Total,7.2
+multi field formula,August % Total,7.5
+multi field formula,August % Total,7.9
+multi field formula,August % Total,8.1
+multi field formula,August % Total,8.2
+multi field formula,August % Total,8.3
+multi field formula,August % Total,8.3
+multi field formula,August % Total,8.7
+multi field formula,August % Total,9.0
+multi field formula,August % Total,9.1
+multi field formula,August % Total,9.3
+multi field formula,August,101000
+>>>>>>> main
 multi field formula,August,101000
 multi field formula,August,101000
 multi field formula,August,104000
 multi field formula,August,104000
+<<<<<<< HEAD
 multi field formula,August,106000
 multi field formula,August,106000
+=======
+multi field formula,August,104000
+multi field formula,August,106000
+multi field formula,August,106000
+multi field formula,August,106000
+multi field formula,August,114000
+>>>>>>> main
 multi field formula,August,114000
 multi field formula,August,114000
 multi field formula,August,119000
 multi field formula,August,119000
 multi field formula,August,119000
 multi field formula,August,119000
+<<<<<<< HEAD
+=======
+multi field formula,August,119000
+multi field formula,August,119000
+multi field formula,August,140000
+>>>>>>> main
 multi field formula,August,140000
 multi field formula,August,140000
 multi field formula,August,149000
 multi field formula,August,149000
+<<<<<<< HEAD
+=======
+multi field formula,August,149000
+multi field formula,August,210000
+>>>>>>> main
 multi field formula,August,210000
 multi field formula,August,210000
 multi field formula,August,86000
 multi field formula,August,86000
+<<<<<<< HEAD
+=======
+multi field formula,August,86000
+multi field formula,August,89000
+>>>>>>> main
 multi field formula,August,89000
 multi field formula,August,89000
 multi field formula,August,94000
 multi field formula,August,94000
 multi field formula,August,94000
 multi field formula,August,94000
+<<<<<<< HEAD
 multi field formula,CITY,
 multi field formula,CITY,
 multi field formula,CITY,
@@ -20352,11 +23654,19 @@ multi field formula,CITY,
 multi field formula,CITY,
 multi field formula,CITY,BUFFALO
 multi field formula,CITY,Buffalo
+=======
+multi field formula,August,94000
+multi field formula,August,94000
+multi field formula,CITY,BUFFALO
+multi field formula,CITY,Buffalo
+multi field formula,CITY,Buffalo
+>>>>>>> main
 multi field formula,CITY,CASPER
 multi field formula,CITY,CHEYENNE
 multi field formula,CITY,CHEYENNE
 multi field formula,CITY,CODY
 multi field formula,CITY,Casper
+<<<<<<< HEAD
 multi field formula,CITY,Cheyenne
 multi field formula,CITY,Cheyenne
 multi field formula,CITY,Cody
@@ -20364,10 +23674,26 @@ multi field formula,CITY,DOUGLAS
 multi field formula,CITY,Douglas
 multi field formula,CITY,EVANSTON
 multi field formula,CITY,Evanston
+=======
+multi field formula,CITY,Casper
+multi field formula,CITY,Cheyenne
+multi field formula,CITY,Cheyenne
+multi field formula,CITY,Cheyenne
+multi field formula,CITY,Cheyenne
+multi field formula,CITY,Cody
+multi field formula,CITY,Cody
+multi field formula,CITY,DOUGLAS
+multi field formula,CITY,Douglas
+multi field formula,CITY,Douglas
+multi field formula,CITY,EVANSTON
+multi field formula,CITY,Evanston
+multi field formula,CITY,Evanston
+>>>>>>> main
 multi field formula,CITY,GILLETTE
 multi field formula,CITY,GILLETTE
 multi field formula,CITY,Gillette
 multi field formula,CITY,Gillette
+<<<<<<< HEAD
 multi field formula,CITY,POWELL
 multi field formula,CITY,Powell
 multi field formula,CITY,RIVERTON
@@ -20376,6 +23702,22 @@ multi field formula,CITY,Riverton
 multi field formula,CITY,Rock Springs
 multi field formula,CITY,SHERIDAN
 multi field formula,CITY,Sheridan
+=======
+multi field formula,CITY,Gillette
+multi field formula,CITY,Gillette
+multi field formula,CITY,POWELL
+multi field formula,CITY,Powell
+multi field formula,CITY,Powell
+multi field formula,CITY,RIVERTON
+multi field formula,CITY,ROCK SPRINGS
+multi field formula,CITY,Riverton
+multi field formula,CITY,Riverton
+multi field formula,CITY,Rock Springs
+multi field formula,CITY,Rock Springs
+multi field formula,CITY,SHERIDAN
+multi field formula,CITY,Sheridan
+multi field formula,CITY,Sheridan
+>>>>>>> main
 multi field formula,December % Total,
 multi field formula,December % Total,
 multi field formula,December % Total,
@@ -20402,6 +23744,7 @@ multi field formula,December % Total,
 multi field formula,December % Total,
 multi field formula,December % Total,
 multi field formula,December % Total,
+<<<<<<< HEAD
 multi field formula,December % Total,7.336182336182335
 multi field formula,December % Total,7.6162215628091
 multi field formula,December % Total,8.033240997229916
@@ -20428,30 +23771,75 @@ multi field formula,December,
 multi field formula,December,
 multi field formula,December,
 multi field formula,December,
+=======
+multi field formula,December % Total,7.3
+multi field formula,December % Total,7.6
+multi field formula,December % Total,8.0
+multi field formula,December % Total,8.2
+multi field formula,December % Total,8.2
+multi field formula,December % Total,8.3
+multi field formula,December % Total,8.7
+multi field formula,December % Total,8.7
+multi field formula,December % Total,8.8
+multi field formula,December % Total,8.8
+multi field formula,December % Total,9.1
+multi field formula,December % Total,9.1
+multi field formula,December % Total,9.3
+multi field formula,December,103000
+multi field formula,December,103000
+>>>>>>> main
 multi field formula,December,103000
 multi field formula,December,103000
 multi field formula,December,103000
 multi field formula,December,103000
 multi field formula,December,104000
 multi field formula,December,104000
+<<<<<<< HEAD
+=======
+multi field formula,December,104000
+multi field formula,December,112000
+>>>>>>> main
 multi field formula,December,112000
 multi field formula,December,112000
 multi field formula,December,115000
 multi field formula,December,115000
+<<<<<<< HEAD
+=======
+multi field formula,December,115000
+multi field formula,December,118000
+>>>>>>> main
 multi field formula,December,118000
 multi field formula,December,118000
 multi field formula,December,128000
 multi field formula,December,128000
+<<<<<<< HEAD
+=======
+multi field formula,December,128000
+multi field formula,December,151000
+>>>>>>> main
 multi field formula,December,151000
 multi field formula,December,151000
 multi field formula,December,180000
 multi field formula,December,180000
+<<<<<<< HEAD
+=======
+multi field formula,December,180000
+multi field formula,December,219000
+>>>>>>> main
 multi field formula,December,219000
 multi field formula,December,219000
 multi field formula,December,77000
 multi field formula,December,77000
+<<<<<<< HEAD
 multi field formula,December,78000
 multi field formula,December,78000
+=======
+multi field formula,December,77000
+multi field formula,December,78000
+multi field formula,December,78000
+multi field formula,December,78000
+multi field formula,December,87000
+>>>>>>> main
 multi field formula,December,87000
 multi field formula,December,87000
 multi field formula,February % Total,
@@ -20480,6 +23868,7 @@ multi field formula,February % Total,
 multi field formula,February % Total,
 multi field formula,February % Total,
 multi field formula,February % Total,
+<<<<<<< HEAD
 multi field formula,February % Total,5.997931747673216
 multi field formula,February % Total,6.798096532970768
 multi field formula,February % Total,7.086842869590473
@@ -20506,30 +23895,75 @@ multi field formula,February,
 multi field formula,February,
 multi field formula,February,
 multi field formula,February,
+=======
+multi field formula,February % Total,6.0
+multi field formula,February % Total,6.8
+multi field formula,February % Total,7.1
+multi field formula,February % Total,7.2
+multi field formula,February % Total,7.3
+multi field formula,February % Total,7.3
+multi field formula,February % Total,7.4
+multi field formula,February % Total,7.5
+multi field formula,February % Total,7.7
+multi field formula,February % Total,7.7
+multi field formula,February % Total,7.7
+multi field formula,February % Total,8.1
+multi field formula,February % Total,8.5
+multi field formula,February,100000
+>>>>>>> main
 multi field formula,February,100000
 multi field formula,February,100000
 multi field formula,February,102000
 multi field formula,February,102000
+<<<<<<< HEAD
+=======
+multi field formula,February,102000
+multi field formula,February,116000
+>>>>>>> main
 multi field formula,February,116000
 multi field formula,February,116000
 multi field formula,February,122000
 multi field formula,February,122000
 multi field formula,February,122000
 multi field formula,February,122000
+<<<<<<< HEAD
+=======
+multi field formula,February,122000
+multi field formula,February,122000
+multi field formula,February,205000
+>>>>>>> main
 multi field formula,February,205000
 multi field formula,February,205000
 multi field formula,February,62000
 multi field formula,February,62000
+<<<<<<< HEAD
+=======
+multi field formula,February,62000
+multi field formula,February,74000
+>>>>>>> main
 multi field formula,February,74000
 multi field formula,February,74000
 multi field formula,February,83000
 multi field formula,February,83000
+<<<<<<< HEAD
+=======
+multi field formula,February,83000
+multi field formula,February,92000
+>>>>>>> main
 multi field formula,February,92000
 multi field formula,February,92000
 multi field formula,February,96500
 multi field formula,February,96500
+<<<<<<< HEAD
 multi field formula,February,97000
 multi field formula,February,97000
+=======
+multi field formula,February,96500
+multi field formula,February,97000
+multi field formula,February,97000
+multi field formula,February,97000
+multi field formula,February,98000
+>>>>>>> main
 multi field formula,February,98000
 multi field formula,February,98000
 multi field formula,January % Total,
@@ -20558,6 +23992,7 @@ multi field formula,January % Total,
 multi field formula,January % Total,
 multi field formula,January % Total,
 multi field formula,January % Total,
+<<<<<<< HEAD
 multi field formula,January % Total,8.090614886731391
 multi field formula,January % Total,8.702531645569621
 multi field formula,January % Total,8.702531645569621
@@ -20584,30 +24019,73 @@ multi field formula,January,
 multi field formula,January,
 multi field formula,January,
 multi field formula,January,
+=======
+multi field formula,January % Total,8.1
+multi field formula,January % Total,8.7
+multi field formula,January % Total,8.7
+multi field formula,January % Total,8.7
+multi field formula,January % Total,8.7
+multi field formula,January % Total,8.8
+multi field formula,January % Total,8.8
+multi field formula,January % Total,8.8
+multi field formula,January % Total,8.8
+multi field formula,January % Total,8.9
+multi field formula,January % Total,8.9
+multi field formula,January % Total,9.2
+multi field formula,January % Total,9.6
+multi field formula,January,100000
+>>>>>>> main
 multi field formula,January,100000
 multi field formula,January,100000
 multi field formula,January,110000
 multi field formula,January,110000
 multi field formula,January,110000
 multi field formula,January,110000
+<<<<<<< HEAD
+=======
+multi field formula,January,110000
+multi field formula,January,110000
+multi field formula,January,115000
+>>>>>>> main
 multi field formula,January,115000
 multi field formula,January,115000
 multi field formula,January,125000
 multi field formula,January,125000
 multi field formula,January,125000
 multi field formula,January,125000
+<<<<<<< HEAD
+=======
+multi field formula,January,125000
+multi field formula,January,125000
+multi field formula,January,135000
+>>>>>>> main
 multi field formula,January,135000
 multi field formula,January,135000
 multi field formula,January,150000
 multi field formula,January,150000
+<<<<<<< HEAD
+=======
+multi field formula,January,150000
+multi field formula,January,185000
+>>>>>>> main
 multi field formula,January,185000
 multi field formula,January,185000
 multi field formula,January,220000
 multi field formula,January,220000
+<<<<<<< HEAD
+=======
+multi field formula,January,220000
+multi field formula,January,75000
+>>>>>>> main
 multi field formula,January,75000
 multi field formula,January,75000
 multi field formula,January,90000
 multi field formula,January,90000
+<<<<<<< HEAD
+=======
+multi field formula,January,90000
+multi field formula,January,95000
+>>>>>>> main
 multi field formula,January,95000
 multi field formula,January,95000
 multi field formula,July % Total,
@@ -20636,6 +24114,7 @@ multi field formula,July % Total,
 multi field formula,July % Total,
 multi field formula,July % Total,
 multi field formula,July % Total,
+<<<<<<< HEAD
 multi field formula,July % Total,6.993006993006993
 multi field formula,July % Total,7.436708860759493
 multi field formula,July % Total,7.756232686980609
@@ -20662,30 +24141,75 @@ multi field formula,July,
 multi field formula,July,
 multi field formula,July,
 multi field formula,July,
+=======
+multi field formula,July % Total,7.0
+multi field formula,July % Total,7.4
+multi field formula,July % Total,7.8
+multi field formula,July % Total,8.0
+multi field formula,July % Total,8.0
+multi field formula,July % Total,8.1
+multi field formula,July % Total,8.1
+multi field formula,July % Total,8.3
+multi field formula,July % Total,8.4
+multi field formula,July % Total,8.4
+multi field formula,July % Total,8.6
+multi field formula,July % Total,8.8
+multi field formula,July % Total,9.0
+multi field formula,July,101000
+>>>>>>> main
 multi field formula,July,101000
 multi field formula,July,101000
 multi field formula,July,104000
 multi field formula,July,104000
+<<<<<<< HEAD
+=======
+multi field formula,July,104000
+multi field formula,July,116000
+>>>>>>> main
 multi field formula,July,116000
 multi field formula,July,116000
 multi field formula,July,118000
 multi field formula,July,118000
 multi field formula,July,118000
 multi field formula,July,118000
+<<<<<<< HEAD
+=======
+multi field formula,July,118000
+multi field formula,July,118000
+multi field formula,July,120000
+>>>>>>> main
 multi field formula,July,120000
 multi field formula,July,120000
 multi field formula,July,138000
 multi field formula,July,138000
+<<<<<<< HEAD
+=======
+multi field formula,July,138000
+multi field formula,July,170000
+>>>>>>> main
 multi field formula,July,170000
 multi field formula,July,170000
 multi field formula,July,204000
 multi field formula,July,204000
+<<<<<<< HEAD
+=======
+multi field formula,July,204000
+multi field formula,July,60000
+>>>>>>> main
 multi field formula,July,60000
 multi field formula,July,60000
 multi field formula,July,84000
 multi field formula,July,84000
+<<<<<<< HEAD
 multi field formula,July,87000
 multi field formula,July,87000
+=======
+multi field formula,July,84000
+multi field formula,July,87000
+multi field formula,July,87000
+multi field formula,July,87000
+multi field formula,July,94000
+>>>>>>> main
 multi field formula,July,94000
 multi field formula,July,94000
 multi field formula,June % Total,
@@ -20714,6 +24238,7 @@ multi field formula,June % Total,
 multi field formula,June % Total,
 multi field formula,June % Total,
 multi field formula,June % Total,
+<<<<<<< HEAD
 multi field formula,June % Total,7.515822784810126
 multi field formula,June % Total,7.575757575757576
 multi field formula,June % Total,7.663896583564174
@@ -20740,30 +24265,76 @@ multi field formula,June,
 multi field formula,June,
 multi field formula,June,
 multi field formula,June,
+=======
+multi field formula,June % Total,7.5
+multi field formula,June % Total,7.6
+multi field formula,June % Total,7.7
+multi field formula,June % Total,7.9
+multi field formula,June % Total,8.0
+multi field formula,June % Total,8.0
+multi field formula,June % Total,8.3
+multi field formula,June % Total,8.6
+multi field formula,June % Total,8.7
+multi field formula,June % Total,8.8
+multi field formula,June % Total,9.3
+multi field formula,June % Total,9.5
+multi field formula,June % Total,9.8
+multi field formula,June,112000
+>>>>>>> main
 multi field formula,June,112000
 multi field formula,June,112000
 multi field formula,June,114000
 multi field formula,June,114000
+<<<<<<< HEAD
+=======
+multi field formula,June,114000
+multi field formula,June,115000
+>>>>>>> main
 multi field formula,June,115000
 multi field formula,June,115000
 multi field formula,June,126000
 multi field formula,June,126000
+<<<<<<< HEAD
+=======
+multi field formula,June,126000
+multi field formula,June,136000
+>>>>>>> main
 multi field formula,June,136000
 multi field formula,June,136000
 multi field formula,June,152000
 multi field formula,June,152000
+<<<<<<< HEAD
+=======
+multi field formula,June,152000
+multi field formula,June,189000
+>>>>>>> main
 multi field formula,June,189000
 multi field formula,June,189000
 multi field formula,June,209000
 multi field formula,June,209000
+<<<<<<< HEAD
+=======
+multi field formula,June,209000
+multi field formula,June,65000
+>>>>>>> main
 multi field formula,June,65000
 multi field formula,June,65000
 multi field formula,June,81000
 multi field formula,June,81000
+<<<<<<< HEAD
+=======
+multi field formula,June,81000
+multi field formula,June,83000
+>>>>>>> main
 multi field formula,June,83000
 multi field formula,June,83000
 multi field formula,June,95000
 multi field formula,June,95000
+<<<<<<< HEAD
+=======
+multi field formula,June,95000
+multi field formula,June,99000
+>>>>>>> main
 multi field formula,June,99000
 multi field formula,June,99000
 multi field formula,March % Total,
@@ -20792,6 +24363,7 @@ multi field formula,March % Total,
 multi field formula,March % Total,
 multi field formula,March % Total,
 multi field formula,March % Total,
+<<<<<<< HEAD
 multi field formula,March % Total,7.610350076103501
 multi field formula,March % Total,7.925407925407925
 multi field formula,March % Total,8.333333333333332
@@ -20820,28 +24392,73 @@ multi field formula,March,
 multi field formula,March,
 multi field formula,March,100000
 multi field formula,March,100000
+=======
+multi field formula,March % Total,7.6
+multi field formula,March % Total,7.9
+multi field formula,March % Total,8.3
+multi field formula,March % Total,8.5
+multi field formula,March % Total,8.6
+multi field formula,March % Total,8.6
+multi field formula,March % Total,8.7
+multi field formula,March % Total,8.7
+multi field formula,March % Total,8.9
+multi field formula,March % Total,9.0
+multi field formula,March % Total,9.1
+multi field formula,March % Total,9.4
+multi field formula,March % Total,9.4
+multi field formula,March,100000
+multi field formula,March,100000
+multi field formula,March,100000
+multi field formula,March,103000
+>>>>>>> main
 multi field formula,March,103000
 multi field formula,March,103000
 multi field formula,March,112000
 multi field formula,March,112000
 multi field formula,March,112000
 multi field formula,March,112000
+<<<<<<< HEAD
+=======
+multi field formula,March,112000
+multi field formula,March,112000
+multi field formula,March,125000
+>>>>>>> main
 multi field formula,March,125000
 multi field formula,March,125000
 multi field formula,March,130000
 multi field formula,March,130000
+<<<<<<< HEAD
+=======
+multi field formula,March,130000
+multi field formula,March,132000
+>>>>>>> main
 multi field formula,March,132000
 multi field formula,March,132000
 multi field formula,March,148000
 multi field formula,March,148000
+<<<<<<< HEAD
+=======
+multi field formula,March,148000
+multi field formula,March,182000
+>>>>>>> main
 multi field formula,March,182000
 multi field formula,March,182000
 multi field formula,March,218000
 multi field formula,March,218000
+<<<<<<< HEAD
+=======
+multi field formula,March,218000
+multi field formula,March,68000
+>>>>>>> main
 multi field formula,March,68000
 multi field formula,March,68000
 multi field formula,March,88000
 multi field formula,March,88000
+<<<<<<< HEAD
+=======
+multi field formula,March,88000
+multi field formula,March,94000
+>>>>>>> main
 multi field formula,March,94000
 multi field formula,March,94000
 multi field formula,May % Total,
@@ -20870,6 +24487,7 @@ multi field formula,May % Total,
 multi field formula,May % Total,
 multi field formula,May % Total,
 multi field formula,May % Total,
+<<<<<<< HEAD
 multi field formula,May % Total,6.867554309740714
 multi field formula,May % Total,7.6162215628091
 multi field formula,May % Total,7.753164556962025
@@ -20896,24 +24514,63 @@ multi field formula,May,
 multi field formula,May,
 multi field formula,May,
 multi field formula,May,
+=======
+multi field formula,May % Total,6.9
+multi field formula,May % Total,7.6
+multi field formula,May % Total,7.8
+multi field formula,May % Total,7.8
+multi field formula,May % Total,7.9
+multi field formula,May % Total,8.2
+multi field formula,May % Total,8.5
+multi field formula,May % Total,8.5
+multi field formula,May % Total,9.1
+multi field formula,May % Total,9.1
+multi field formula,May % Total,9.2
+multi field formula,May % Total,9.2
+multi field formula,May % Total,9.9
+multi field formula,May,100000
+>>>>>>> main
 multi field formula,May,100000
 multi field formula,May,100000
 multi field formula,May,112000
 multi field formula,May,112000
+<<<<<<< HEAD
+=======
+multi field formula,May,112000
+multi field formula,May,113000
+>>>>>>> main
 multi field formula,May,113000
 multi field formula,May,113000
 multi field formula,May,120000
 multi field formula,May,120000
+<<<<<<< HEAD
+=======
+multi field formula,May,120000
+multi field formula,May,135000
+>>>>>>> main
 multi field formula,May,135000
 multi field formula,May,135000
 multi field formula,May,141000
 multi field formula,May,141000
+<<<<<<< HEAD
+=======
+multi field formula,May,141000
+multi field formula,May,176000
+>>>>>>> main
 multi field formula,May,176000
 multi field formula,May,176000
 multi field formula,May,200000
 multi field formula,May,200000
+<<<<<<< HEAD
 multi field formula,May,77000
 multi field formula,May,77000
+=======
+multi field formula,May,200000
+multi field formula,May,77000
+multi field formula,May,77000
+multi field formula,May,77000
+multi field formula,May,85000
+>>>>>>> main
 multi field formula,May,85000
 multi field formula,May,85000
 multi field formula,May,98000
@@ -20922,6 +24579,7 @@ multi field formula,May,98000
 multi field formula,May,98000
 multi field formula,May,98000
 multi field formula,May,98000
+<<<<<<< HEAD
 multi field formula,NAME,
 multi field formula,NAME,
 multi field formula,NAME,
@@ -20935,10 +24593,16 @@ multi field formula,NAME,
 multi field formula,NAME,
 multi field formula,NAME,
 multi field formula,NAME,
+=======
+multi field formula,May,98000
+multi field formula,May,98000
+multi field formula,May,98000
+>>>>>>> main
 multi field formula,NAME,ALL CREATURES GREAT AND SMALL
 multi field formula,NAME,ANIMAL HOUSE
 multi field formula,NAME,AQUATICS AND CRITTERS
 multi field formula,NAME,All Creatures Great and Small
+<<<<<<< HEAD
 multi field formula,NAME,Animal House
 multi field formula,NAME,Aquatics and Critters
 multi field formula,NAME,BARN
@@ -20947,19 +24611,51 @@ multi field formula,NAME,FINS AND FEATHERS PET SHOPPE
 multi field formula,NAME,Fins and Feathers Pet Shoppe
 multi field formula,NAME,MUTT HUT
 multi field formula,NAME,Mutt Hut
+=======
+multi field formula,NAME,All Creatures Great and Small
+multi field formula,NAME,Animal House
+multi field formula,NAME,Animal House
+multi field formula,NAME,Aquatics and Critters
+multi field formula,NAME,Aquatics and Critters
+multi field formula,NAME,BARN
+multi field formula,NAME,Barn
+multi field formula,NAME,Barn
+multi field formula,NAME,FINS AND FEATHERS PET SHOPPE
+multi field formula,NAME,Fins and Feathers Pet Shoppe
+multi field formula,NAME,Fins and Feathers Pet Shoppe
+multi field formula,NAME,MUTT HUT
+multi field formula,NAME,Mutt Hut
+multi field formula,NAME,Mutt Hut
+>>>>>>> main
 multi field formula,NAME,PET CITY
 multi field formula,NAME,PET FOOD OUTLET
 multi field formula,NAME,PETLAND
 multi field formula,NAME,PETS-N-STUFF
 multi field formula,NAME,PURR-FECT PETS
 multi field formula,NAME,Pet City
+<<<<<<< HEAD
 multi field formula,NAME,Pet Food Outlet
 multi field formula,NAME,Petland
 multi field formula,NAME,Pets-N-Stuff
+=======
+multi field formula,NAME,Pet City
+multi field formula,NAME,Pet Food Outlet
+multi field formula,NAME,Pet Food Outlet
+multi field formula,NAME,Petland
+multi field formula,NAME,Petland
+multi field formula,NAME,Pets-N-Stuff
+multi field formula,NAME,Pets-N-Stuff
+multi field formula,NAME,Purr-Fect Pets
+>>>>>>> main
 multi field formula,NAME,Purr-Fect Pets
 multi field formula,NAME,SUMMIT PETS
 multi field formula,NAME,SUMMIT PETS OF ROCK SPRINGS
 multi field formula,NAME,Summit Pets
+<<<<<<< HEAD
+=======
+multi field formula,NAME,Summit Pets
+multi field formula,NAME,Summit Pets of Rock Springs
+>>>>>>> main
 multi field formula,NAME,Summit Pets of Rock Springs
 multi field formula,New_ADDRESS,
 multi field formula,New_ADDRESS,
@@ -21143,6 +24839,7 @@ multi field formula,November % Total,
 multi field formula,November % Total,
 multi field formula,November % Total,
 multi field formula,November % Total,
+<<<<<<< HEAD
 multi field formula,November % Total,7.109557109557109
 multi field formula,November % Total,7.479224376731302
 multi field formula,November % Total,7.704239917269907
@@ -21169,30 +24866,75 @@ multi field formula,November,
 multi field formula,November,
 multi field formula,November,
 multi field formula,November,
+=======
+multi field formula,November % Total,7.1
+multi field formula,November % Total,7.5
+multi field formula,November % Total,7.7
+multi field formula,November % Total,7.8
+multi field formula,November % Total,8.1
+multi field formula,November % Total,8.1
+multi field formula,November % Total,8.1
+multi field formula,November % Total,8.2
+multi field formula,November % Total,8.3
+multi field formula,November % Total,8.5
+multi field formula,November % Total,8.8
+multi field formula,November % Total,9.1
+multi field formula,November % Total,9.1
+multi field formula,November,102000
+multi field formula,November,102000
+>>>>>>> main
 multi field formula,November,102000
 multi field formula,November,102000
 multi field formula,November,102000
 multi field formula,November,102000
 multi field formula,November,116000
 multi field formula,November,116000
+<<<<<<< HEAD
+=======
+multi field formula,November,116000
+multi field formula,November,120000
+>>>>>>> main
 multi field formula,November,120000
 multi field formula,November,120000
 multi field formula,November,124000
 multi field formula,November,124000
+<<<<<<< HEAD
+=======
+multi field formula,November,124000
+multi field formula,November,134000
+>>>>>>> main
 multi field formula,November,134000
 multi field formula,November,134000
 multi field formula,November,139000
 multi field formula,November,139000
+<<<<<<< HEAD
+=======
+multi field formula,November,139000
+multi field formula,November,149000
+>>>>>>> main
 multi field formula,November,149000
 multi field formula,November,149000
 multi field formula,November,207000
 multi field formula,November,207000
+<<<<<<< HEAD
+=======
+multi field formula,November,207000
+multi field formula,November,61000
+>>>>>>> main
 multi field formula,November,61000
 multi field formula,November,61000
 multi field formula,November,81000
 multi field formula,November,81000
+<<<<<<< HEAD
 multi field formula,November,86000
 multi field formula,November,86000
+=======
+multi field formula,November,81000
+multi field formula,November,86000
+multi field formula,November,86000
+multi field formula,November,86000
+multi field formula,November,97000
+>>>>>>> main
 multi field formula,November,97000
 multi field formula,November,97000
 multi field formula,October % Total,
@@ -21221,6 +24963,7 @@ multi field formula,October % Total,
 multi field formula,October % Total,
 multi field formula,October % Total,
 multi field formula,October % Total,
+<<<<<<< HEAD
 multi field formula,October % Total,7.135470527404343
 multi field formula,October % Total,7.226107226107226
 multi field formula,October % Total,7.4581430745814306
@@ -21247,24 +24990,61 @@ multi field formula,October,
 multi field formula,October,
 multi field formula,October,
 multi field formula,October,
+=======
+multi field formula,October % Total,7.1
+multi field formula,October % Total,7.2
+multi field formula,October % Total,7.5
+multi field formula,October % Total,7.7
+multi field formula,October % Total,7.9
+multi field formula,October % Total,7.9
+multi field formula,October % Total,8.0
+multi field formula,October % Total,8.3
+multi field formula,October % Total,8.5
+multi field formula,October % Total,8.7
+multi field formula,October % Total,8.7
+multi field formula,October % Total,9.0
+multi field formula,October % Total,9.0
+multi field formula,October,110000
+multi field formula,October,110000
+>>>>>>> main
 multi field formula,October,110000
 multi field formula,October,110000
 multi field formula,October,110000
 multi field formula,October,110000
 multi field formula,October,113000
 multi field formula,October,113000
+<<<<<<< HEAD
+=======
+multi field formula,October,113000
+multi field formula,October,117000
+>>>>>>> main
 multi field formula,October,117000
 multi field formula,October,117000
 multi field formula,October,122000
 multi field formula,October,122000
+<<<<<<< HEAD
+=======
+multi field formula,October,122000
+multi field formula,October,138000
+>>>>>>> main
 multi field formula,October,138000
 multi field formula,October,138000
 multi field formula,October,146000
 multi field formula,October,146000
+<<<<<<< HEAD
+=======
+multi field formula,October,146000
+multi field formula,October,199000
+>>>>>>> main
 multi field formula,October,199000
 multi field formula,October,199000
 multi field formula,October,62000
 multi field formula,October,62000
+<<<<<<< HEAD
+=======
+multi field formula,October,62000
+multi field formula,October,84000
+>>>>>>> main
 multi field formula,October,84000
 multi field formula,October,84000
 multi field formula,October,98000
@@ -21273,6 +25053,7 @@ multi field formula,October,98000
 multi field formula,October,98000
 multi field formula,October,98000
 multi field formula,October,98000
+<<<<<<< HEAD
 multi field formula,STATE,
 multi field formula,STATE,
 multi field formula,STATE,
@@ -21286,6 +25067,24 @@ multi field formula,STATE,
 multi field formula,STATE,
 multi field formula,STATE,
 multi field formula,STATE,
+=======
+multi field formula,October,98000
+multi field formula,October,98000
+multi field formula,October,98000
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+multi field formula,STATE,WY
+>>>>>>> main
 multi field formula,STATE,WY
 multi field formula,STATE,WY
 multi field formula,STATE,WY
@@ -21338,6 +25137,7 @@ multi field formula,September % Total,
 multi field formula,September % Total,
 multi field formula,September % Total,
 multi field formula,September % Total,
+<<<<<<< HEAD
 multi field formula,September % Total,10.932025227750525
 multi field formula,September % Total,6.980351602895553
 multi field formula,September % Total,7.205982324949015
@@ -21364,30 +25164,76 @@ multi field formula,September,
 multi field formula,September,
 multi field formula,September,
 multi field formula,September,
+=======
+multi field formula,September % Total,10.9
+multi field formula,September % Total,7.0
+multi field formula,September % Total,7.2
+multi field formula,September % Total,7.8
+multi field formula,September % Total,8.0
+multi field formula,September % Total,8.3
+multi field formula,September % Total,8.4
+multi field formula,September % Total,8.6
+multi field formula,September % Total,8.7
+multi field formula,September % Total,8.7
+multi field formula,September % Total,8.8
+multi field formula,September % Total,8.9
+multi field formula,September % Total,9.2
+multi field formula,September,102000
+>>>>>>> main
 multi field formula,September,102000
 multi field formula,September,102000
 multi field formula,September,106000
 multi field formula,September,106000
+<<<<<<< HEAD
+=======
+multi field formula,September,106000
+multi field formula,September,112000
+>>>>>>> main
 multi field formula,September,112000
 multi field formula,September,112000
 multi field formula,September,115000
 multi field formula,September,115000
+<<<<<<< HEAD
+=======
+multi field formula,September,115000
+multi field formula,September,118000
+>>>>>>> main
 multi field formula,September,118000
 multi field formula,September,118000
 multi field formula,September,135000
 multi field formula,September,135000
+<<<<<<< HEAD
+=======
+multi field formula,September,135000
+multi field formula,September,142500
+>>>>>>> main
 multi field formula,September,142500
 multi field formula,September,142500
 multi field formula,September,156000
 multi field formula,September,156000
+<<<<<<< HEAD
+=======
+multi field formula,September,156000
+multi field formula,September,221000
+>>>>>>> main
 multi field formula,September,221000
 multi field formula,September,221000
 multi field formula,September,74000
 multi field formula,September,74000
+<<<<<<< HEAD
+=======
+multi field formula,September,74000
+multi field formula,September,89000
+>>>>>>> main
 multi field formula,September,89000
 multi field formula,September,89000
 multi field formula,September,94000
 multi field formula,September,94000
+<<<<<<< HEAD
+=======
+multi field formula,September,94000
+multi field formula,September,99000
+>>>>>>> main
 multi field formula,September,99000
 multi field formula,September,99000
 multi field formula,Total % Total,
@@ -21416,6 +25262,7 @@ multi field formula,Total % Total,
 multi field formula,Total % Total,
 multi field formula,Total % Total,
 multi field formula,Total % Total,
+<<<<<<< HEAD
 multi field formula,Total % Total,100.0
 multi field formula,Total % Total,100.0
 multi field formula,Total % Total,100.0
@@ -21442,30 +25289,76 @@ multi field formula,Total,
 multi field formula,Total,
 multi field formula,Total,
 multi field formula,Total,
+=======
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total % Total,
+multi field formula,Total,1011000
+>>>>>>> main
 multi field formula,Total,1011000
 multi field formula,Total,1011000
 multi field formula,Total,1083000
 multi field formula,Total,1083000
+<<<<<<< HEAD
+=======
+multi field formula,Total,1083000
+multi field formula,Total,1236000
+>>>>>>> main
 multi field formula,Total,1236000
 multi field formula,Total,1236000
 multi field formula,Total,1250500
 multi field formula,Total,1250500
+<<<<<<< HEAD
+=======
+multi field formula,Total,1250500
+multi field formula,Total,1264000
+>>>>>>> main
 multi field formula,Total,1264000
 multi field formula,Total,1264000
 multi field formula,Total,1314000
 multi field formula,Total,1314000
+<<<<<<< HEAD
+=======
+multi field formula,Total,1314000
+multi field formula,Total,1404000
+>>>>>>> main
 multi field formula,Total,1404000
 multi field formula,Total,1404000
 multi field formula,Total,1427000
 multi field formula,Total,1427000
+<<<<<<< HEAD
+=======
+multi field formula,Total,1427000
+multi field formula,Total,1471000
+>>>>>>> main
 multi field formula,Total,1471000
 multi field formula,Total,1471000
 multi field formula,Total,1721500
 multi field formula,Total,1721500
+<<<<<<< HEAD
+=======
+multi field formula,Total,1721500
+multi field formula,Total,1934000
+>>>>>>> main
 multi field formula,Total,1934000
 multi field formula,Total,1934000
 multi field formula,Total,2528000
 multi field formula,Total,2528000
+<<<<<<< HEAD
+=======
+multi field formula,Total,2528000
+multi field formula,Total,858000
+>>>>>>> main
 multi field formula,Total,858000
 multi field formula,Total,858000
 multi field formula,ZIP % Total,
@@ -21494,6 +25387,7 @@ multi field formula,ZIP % Total,
 multi field formula,ZIP % Total,
 multi field formula,ZIP % Total,
 multi field formula,ZIP % Total,
+<<<<<<< HEAD
 multi field formula,ZIP % Total,3.263488924050633
 multi field formula,ZIP % Total,4.283040330920372
 multi field formula,ZIP % Total,4.763345919256463
@@ -21520,30 +25414,76 @@ multi field formula,ZIP,
 multi field formula,ZIP,
 multi field formula,ZIP,
 multi field formula,ZIP,
+=======
+multi field formula,ZIP % Total,3.3
+multi field formula,ZIP % Total,4.3
+multi field formula,ZIP % Total,4.8
+multi field formula,ZIP % Total,5.6
+multi field formula,ZIP % Total,5.8
+multi field formula,ZIP % Total,5.9
+multi field formula,ZIP % Total,6.3
+multi field formula,ZIP % Total,6.5
+multi field formula,ZIP % Total,6.6
+multi field formula,ZIP % Total,6.7
+multi field formula,ZIP % Total,7.6
+multi field formula,ZIP % Total,8.2
+multi field formula,ZIP % Total,9.6
+multi field formula,ZIP,82001
+>>>>>>> main
 multi field formula,ZIP,82001
 multi field formula,ZIP,82001
 multi field formula,ZIP,82009
 multi field formula,ZIP,82009
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82009
+multi field formula,ZIP,82414
+>>>>>>> main
 multi field formula,ZIP,82414
 multi field formula,ZIP,82414
 multi field formula,ZIP,82435
 multi field formula,ZIP,82435
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82435
+multi field formula,ZIP,82501
+>>>>>>> main
 multi field formula,ZIP,82501
 multi field formula,ZIP,82501
 multi field formula,ZIP,82609
 multi field formula,ZIP,82609
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82609
+multi field formula,ZIP,82633
+>>>>>>> main
 multi field formula,ZIP,82633
 multi field formula,ZIP,82633
 multi field formula,ZIP,82716
 multi field formula,ZIP,82716
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82716
+multi field formula,ZIP,82718
+>>>>>>> main
 multi field formula,ZIP,82718
 multi field formula,ZIP,82718
 multi field formula,ZIP,82801
 multi field formula,ZIP,82801
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82801
+multi field formula,ZIP,82834
+>>>>>>> main
 multi field formula,ZIP,82834
 multi field formula,ZIP,82834
 multi field formula,ZIP,82901
 multi field formula,ZIP,82901
+<<<<<<< HEAD
+=======
+multi field formula,ZIP,82901
+multi field formula,ZIP,82930
+>>>>>>> main
 multi field formula,ZIP,82930
 multi field formula,ZIP,82930
 multi row formula,3 Month Average,
@@ -21745,6 +25685,7 @@ multi row formula,3 Month Average,
 multi row formula,3 Month Average,
 multi row formula,3 Month Average,
 multi row formula,3 Month Average,
+<<<<<<< HEAD
 multi row formula,3 Month Average,100.66666666666667
 multi row formula,3 Month Average,101.33333333333333
 multi row formula,3 Month Average,104.66666666666667
@@ -21835,6 +25776,98 @@ multi row formula,3 Month Average,96.66666666666667
 multi row formula,3 Month Average,97.33333333333333
 multi row formula,3 Month Average,98.0
 multi row formula,3 Month Average,98.0
+=======
+multi row formula,3 Month Average,100.67
+multi row formula,3 Month Average,101.33
+multi row formula,3 Month Average,104.67
+multi row formula,3 Month Average,1675606.00
+multi row formula,3 Month Average,1852957.33
+multi row formula,3 Month Average,2106162.00
+multi row formula,3 Month Average,2109169.33
+multi row formula,3 Month Average,2154960.67
+multi row formula,3 Month Average,2157064.67
+multi row formula,3 Month Average,2168416.67
+multi row formula,3 Month Average,2175643.33
+multi row formula,3 Month Average,2177160.67
+multi row formula,3 Month Average,2187271.33
+multi row formula,3 Month Average,2206088.00
+multi row formula,3 Month Average,2209490.67
+multi row formula,3 Month Average,2212732.00
+multi row formula,3 Month Average,2216702.67
+multi row formula,3 Month Average,2239181.33
+multi row formula,3 Month Average,2294326.67
+multi row formula,3 Month Average,2310433.33
+multi row formula,3 Month Average,2314335.33
+multi row formula,3 Month Average,2322929.33
+multi row formula,3 Month Average,2335766.00
+multi row formula,3 Month Average,2358454.67
+multi row formula,3 Month Average,2387236.67
+multi row formula,3 Month Average,2395718.67
+multi row formula,3 Month Average,2401302.00
+multi row formula,3 Month Average,2439350.67
+multi row formula,3 Month Average,2461836.67
+multi row formula,3 Month Average,2461858.67
+multi row formula,3 Month Average,2513756.00
+multi row formula,3 Month Average,2550666.00
+multi row formula,3 Month Average,2651269.33
+multi row formula,3 Month Average,290.00
+multi row formula,3 Month Average,326.00
+multi row formula,3 Month Average,377.33
+multi row formula,3 Month Average,380.00
+multi row formula,3 Month Average,385.33
+multi row formula,3 Month Average,386.00
+multi row formula,3 Month Average,392.33
+multi row formula,3 Month Average,394.00
+multi row formula,3 Month Average,395.33
+multi row formula,3 Month Average,396.67
+multi row formula,3 Month Average,403.33
+multi row formula,3 Month Average,407.33
+multi row formula,3 Month Average,412.67
+multi row formula,3 Month Average,42.00
+multi row formula,3 Month Average,421.33
+multi row formula,3 Month Average,422.00
+multi row formula,3 Month Average,424.00
+multi row formula,3 Month Average,426.00
+multi row formula,3 Month Average,431.33
+multi row formula,3 Month Average,436.67
+multi row formula,3 Month Average,438.00
+multi row formula,3 Month Average,440.67
+multi row formula,3 Month Average,442.00
+multi row formula,3 Month Average,442.00
+multi row formula,3 Month Average,446.00
+multi row formula,3 Month Average,449.33
+multi row formula,3 Month Average,450.00
+multi row formula,3 Month Average,452.00
+multi row formula,3 Month Average,453.33
+multi row formula,3 Month Average,469.00
+multi row formula,3 Month Average,476.00
+multi row formula,3 Month Average,63.33
+multi row formula,3 Month Average,64.67
+multi row formula,3 Month Average,68.67
+multi row formula,3 Month Average,69.33
+multi row formula,3 Month Average,75.33
+multi row formula,3 Month Average,80.67
+multi row formula,3 Month Average,81.33
+multi row formula,3 Month Average,82.00
+multi row formula,3 Month Average,86.00
+multi row formula,3 Month Average,86.00
+multi row formula,3 Month Average,88.00
+multi row formula,3 Month Average,88.67
+multi row formula,3 Month Average,89.33
+multi row formula,3 Month Average,90.00
+multi row formula,3 Month Average,90.67
+multi row formula,3 Month Average,90.67
+multi row formula,3 Month Average,92.67
+multi row formula,3 Month Average,94.00
+multi row formula,3 Month Average,94.00
+multi row formula,3 Month Average,94.00
+multi row formula,3 Month Average,94.67
+multi row formula,3 Month Average,95.33
+multi row formula,3 Month Average,96.67
+multi row formula,3 Month Average,96.67
+multi row formula,3 Month Average,97.33
+multi row formula,3 Month Average,98.00
+>>>>>>> main
 multi row formula,Clicks,
 multi row formula,Clicks,
 multi row formula,Clicks,
@@ -22686,6 +26719,7 @@ multi row formula,Flag,
 multi row formula,Flag,
 multi row formula,Flag,
 multi row formula,Flag,
+<<<<<<< HEAD
 multi row formula,Flag,false
 multi row formula,Flag,false
 multi row formula,Flag,false
@@ -22702,6 +26736,24 @@ multi row formula,Flag,true
 multi row formula,Flag,true
 multi row formula,Flag,true
 multi row formula,Flag,true
+=======
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,False
+multi row formula,Flag,True
+multi row formula,Flag,True
+multi row formula,Flag,True
+multi row formula,Flag,True
+multi row formula,Flag,True
+multi row formula,Flag,True
+multi row formula,Flag,True
+>>>>>>> main
 multi row formula,Month,
 multi row formula,Month,
 multi row formula,Month,
@@ -25619,7 +29671,11 @@ summarize,AvgNo0_Spend,
 summarize,AvgNo0_Spend,
 summarize,AvgNo0_Spend,
 summarize,AvgNo0_Spend,
+<<<<<<< HEAD
 summarize,AvgNo0_Spend,2735.4421951219515
+=======
+summarize,AvgNo0_Spend,2735.44219512195
+>>>>>>> main
 summarize,Avg_Spend,
 summarize,Avg_Spend,
 summarize,Avg_Spend,
@@ -25647,7 +29703,11 @@ summarize,Avg_Spend,
 summarize,Avg_Spend,
 summarize,Avg_Spend,
 summarize,Avg_Spend,
+<<<<<<< HEAD
 summarize,Avg_Spend,2670.3126190476196
+=======
+summarize,Avg_Spend,2670.31261904762
+>>>>>>> main
 summarize,City,
 summarize,City,
 summarize,City,
@@ -25703,7 +29763,11 @@ summarize,Concat_FirstName,
 summarize,Concat_FirstName,
 summarize,Concat_FirstName,
 summarize,Concat_FirstName,
+<<<<<<< HEAD
 summarize,Concat_FirstName,<PAMELA>.<MELISSA>.<CONSTANTI>.<AMY>.<DANELL>.<JESSICA>.<NANCY>.<ANDREA>.<NELE>.<JOAN>.<DOROTHY>.<DEANNE>.<SHAVELL>.<PAMELA>.<MELISSA>.<CONSTANTI>.<DENISE>.<ERNA>.<ZAREFA>.<MURIEL>.<KAREN>.<SHIRLEY>.<MICHELE>.<DIANNE>.<AMY>.<DANELL>.<JESSICA>.<NANCY>.<MURIEL>.<KAREN>.<SHIRLEY>.<MICHELE>.<ANDREA>.<DENISE>.<ERNA>.<ZAREFA>.<DIANNE>.<NELE>.<JOAN>.<DOROTHY>.<DEANNE>.<SHAVELL>
+=======
+summarize,Concat_FirstName,<PAMELA>.<MELISSA>.<CONSTANTI>.<AMY>.<DANELL>.<JESSICA>.<NANCY>.<ANDREA>.<DENISE>.<ERNA>.<ZAREFA>.<MURIEL>.<KAREN>.<SHIRLEY>.<MICHELE>.<DIANNE>.<NELE>.<JOAN>.<DOROTHY>.<DEANNE>.<SHAVELL>.<PAMELA>.<MELISSA>.<CONSTANTI>.<AMY>.<DANELL>.<JESSICA>.<NANCY>.<ANDREA>.<DENISE>.<ERNA>.<ZAREFA>.<MURIEL>.<KAREN>.<SHIRLEY>.<MICHELE>.<DIANNE>.<NELE>.<JOAN>.<DOROTHY>.<DEANNE>.<SHAVELL>
+>>>>>>> main
 summarize,Count,
 summarize,Count,
 summarize,Count,
@@ -25955,7 +30019,11 @@ summarize,First_ZIP,
 summarize,First_ZIP,
 summarize,First_ZIP,
 summarize,First_ZIP,
+<<<<<<< HEAD
 summarize,First_ZIP,80219
+=======
+summarize,First_ZIP,80206
+>>>>>>> main
 summarize,Last_ZIP,
 summarize,Last_ZIP,
 summarize,Last_ZIP,
@@ -26117,6 +30185,7 @@ summarize,Median_Visits,
 summarize,Median_Visits,
 summarize,Median_Visits,
 summarize,Median_Visits,
+<<<<<<< HEAD
 summarize,Median_Visits,1.0
 summarize,Median_Visits,1.0
 summarize,Median_Visits,15.0
@@ -26124,6 +30193,15 @@ summarize,Median_Visits,2.0
 summarize,Median_Visits,2.0
 summarize,Median_Visits,3.0
 summarize,Median_Visits,4.0
+=======
+summarize,Median_Visits,1
+summarize,Median_Visits,1
+summarize,Median_Visits,15
+summarize,Median_Visits,2
+summarize,Median_Visits,2
+summarize,Median_Visits,3
+summarize,Median_Visits,4
+>>>>>>> main
 summarize,PctlNo0_Spend,
 summarize,PctlNo0_Spend,
 summarize,PctlNo0_Spend,
@@ -26179,7 +30257,11 @@ summarize,Percentile_CustomerID,
 summarize,Percentile_CustomerID,
 summarize,Percentile_CustomerID,
 summarize,Percentile_CustomerID,
+<<<<<<< HEAD
 summarize,Percentile_CustomerID,11.0
+=======
+summarize,Percentile_CustomerID,11
+>>>>>>> main
 summarize,Shortest_FirstName,
 summarize,Shortest_FirstName,
 summarize,Shortest_FirstName,
@@ -26263,7 +30345,11 @@ summarize,StdDevNo0_Spend,
 summarize,StdDevNo0_Spend,
 summarize,StdDevNo0_Spend,
 summarize,StdDevNo0_Spend,
+<<<<<<< HEAD
 summarize,StdDevNo0_Spend,5857.166336836659
+=======
+summarize,StdDevNo0_Spend,5857.16633683666
+>>>>>>> main
 summarize,StdDev_Spend,
 summarize,StdDev_Spend,
 summarize,StdDev_Spend,
@@ -26313,12 +30399,21 @@ summarize,Sum_Spend,
 summarize,Sum_Spend,
 summarize,Sum_Spend,
 summarize,Sum_Spend,1105.06
+<<<<<<< HEAD
 summarize,Sum_Spend,112153.12999999999
 summarize,Sum_Spend,11947.900000000001
 summarize,Sum_Spend,14052.88
 summarize,Sum_Spend,1491.3
 summarize,Sum_Spend,197.22
 summarize,Sum_Spend,28974.549999999996
+=======
+summarize,Sum_Spend,112153.13
+summarize,Sum_Spend,11947.9
+summarize,Sum_Spend,14052.88
+summarize,Sum_Spend,1491.3
+summarize,Sum_Spend,197.22
+summarize,Sum_Spend,28974.55
+>>>>>>> main
 summarize,Sum_Spend,54384.22
 summarize,VarianceNo0_Spend,
 summarize,VarianceNo0_Spend,
@@ -26347,7 +30442,11 @@ summarize,VarianceNo0_Spend,
 summarize,VarianceNo0_Spend,
 summarize,VarianceNo0_Spend,
 summarize,VarianceNo0_Spend,
+<<<<<<< HEAD
 summarize,VarianceNo0_Spend,3.430639749737257E7
+=======
+summarize,VarianceNo0_Spend,34306397.4973726
+>>>>>>> main
 summarize,Variance_Spend,
 summarize,Variance_Spend,
 summarize,Variance_Spend,
@@ -26375,7 +30474,11 @@ summarize,Variance_Spend,
 summarize,Variance_Spend,
 summarize,Variance_Spend,
 summarize,Variance_Spend,
+<<<<<<< HEAD
 summarize,Variance_Spend,3.364781428554176E7
+=======
+summarize,Variance_Spend,33647814.2855418
+>>>>>>> main
 text to columns,1,
 text to columns,1,
 text to columns,1,
@@ -26434,6 +30537,7 @@ text to columns,2,
 text to columns,2,E
 text to columns,2,E
 text to columns,2,]S(
+<<<<<<< HEAD
 text to columns,Address,
 text to columns,Address,
 text to columns,Address,
@@ -26443,6 +30547,18 @@ text to columns,Address,"""6426"
 text to columns,Address,"'80210"""
 text to columns,Address,"2753[ ]S( )Milwaukee St.Denver.CO' '80210""-""6426"
 text to columns,Address,"2753[ ]S( )Milwaukee St.Denver.CO' '80210""-""6426"
+=======
+text to columns,Address,""""""
+text to columns,Address,""""""
+text to columns,Address,""""""
+text to columns,Address,""""""
+text to columns,Address,""""""
+text to columns,Address,"""""""6426"""
+text to columns,Address,"""'80210"""""""
+text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
+text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
+text to columns,Address,"""St.Denver.CO'"""
+>>>>>>> main
 text to columns,Address,)Milwaukee
 text to columns,Address,1507
 text to columns,Address,16911
@@ -26461,7 +30577,10 @@ text to columns,Address,Ave.Denver.CO
 text to columns,Address,E
 text to columns,Address,E
 text to columns,Address,Harvard
+<<<<<<< HEAD
 text to columns,Address,St.Denver.CO'
+=======
+>>>>>>> main
 text to columns,Address,]S(
 text to columns,Address1,
 text to columns,Address1,
@@ -26518,8 +30637,13 @@ text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
+<<<<<<< HEAD
 text to columns,Address2,
 text to columns,Address2,"St.Denver.CO' '80210""-""6426"
+=======
+text to columns,Address2,""""""
+text to columns,Address2,"""St.Denver.CO' '80210""""-""""6426"""
+>>>>>>> main
 text to columns,Address2,E
 text to columns,Address3,
 text to columns,Address3,
@@ -26548,7 +30672,11 @@ text to columns,Address3,
 text to columns,Address3,
 text to columns,Address3,
 text to columns,Address3,
+<<<<<<< HEAD
 text to columns,Address3,
+=======
+text to columns,Address3,""""""
+>>>>>>> main
 text to columns,Address3,5th
 text to columns,Address4,
 text to columns,Address4,
@@ -26577,7 +30705,11 @@ text to columns,Address4,
 text to columns,Address4,
 text to columns,Address4,
 text to columns,Address4,
+<<<<<<< HEAD
 text to columns,Address4,
+=======
+text to columns,Address4,""""""
+>>>>>>> main
 text to columns,Address4,Ave.Denver.CO
 text to columns,Address5,
 text to columns,Address5,
@@ -26606,8 +30738,13 @@ text to columns,Address5,
 text to columns,Address5,
 text to columns,Address5,
 text to columns,Address5,
+<<<<<<< HEAD
 text to columns,Address5,80206-4205
 text to columns,Address5,E Harvard Ave.Aurora.CO 80013-1507
+=======
+text to columns,Address5,"""  E Harvard Ave.Aurora.CO 80013-1507"""
+text to columns,Address5,80206-4205
+>>>>>>> main
 text to columns,CustomerID,1
 text to columns,CustomerID,1
 text to columns,CustomerID,1
@@ -27061,6 +31198,7 @@ weighted avg,Units,8
 weighted avg,Units,8
 weighted avg,Units,9
 weighted avg,WeightedAverage,
+<<<<<<< HEAD
 weighted avg,WeightedAverage,100.0
 weighted avg,WeightedAverage,100.0
 weighted avg,WeightedAverage,100.0
@@ -27161,3 +31299,105 @@ weighted avg,WeightedAverage,898.4537499999999
 weighted avg,WeightedAverage,906.5987121212125
 weighted avg,WeightedAverage,908.4223809523819
 weighted avg,WeightedAverage,980.0276213592227
+=======
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,100
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,101
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,102
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,103
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,104
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,105
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,106
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,107
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,108
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,109
+weighted avg,WeightedAverage,1208.63858695652
+weighted avg,WeightedAverage,624.812243589743
+weighted avg,WeightedAverage,735.1391155498
+weighted avg,WeightedAverage,779.17237804878
+weighted avg,WeightedAverage,803.03993670886
+weighted avg,WeightedAverage,855.73186440678
+weighted avg,WeightedAverage,875.258854961832
+weighted avg,WeightedAverage,893.245234948604
+weighted avg,WeightedAverage,898.45375
+weighted avg,WeightedAverage,906.598712121212
+weighted avg,WeightedAverage,908.422380952382
+weighted avg,WeightedAverage,980.027621359223
+>>>>>>> main
