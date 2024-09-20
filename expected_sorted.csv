@@ -25,24 +25,24 @@ arrange,colAVal,0
 arrange,colAVal,1
 arrange,colAVal,1
 arrange,colAVal,1
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
-arrange,emptyDescText2,""""""
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
+arrange,emptyDescText2,
 arrange,partiallyEmptyVals,
 arrange,partiallyEmptyVals,
 arrange,partiallyEmptyVals,
@@ -229,10 +229,10 @@ cross tab,1,
 cross tab,1,
 cross tab,1,
 cross tab,1,
-cross tab,1,""""""
-cross tab,1,""""""
-cross tab,1,""""""
-cross tab,1,""""""
+cross tab,1,
+cross tab,1,
+cross tab,1,
+cross tab,1,
 cross tab,1,Aaron Burr
 cross tab,1,Adlai Stevenson
 cross tab,1,Al Gore
@@ -417,44 +417,44 @@ cross tab,2,
 cross tab,2,
 cross tab,2,
 cross tab,2,
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
-cross tab,2,""""""
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
+cross tab,2,
 cross tab,2,Andrew Johnson
 cross tab,2,George Clinton
 cross tab,2,Gerald Ford
@@ -605,49 +605,49 @@ cross tab,3,
 cross tab,3,
 cross tab,3,
 cross tab,3,
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
-cross tab,3,""""""
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
+cross tab,3,
 cross tab,3,Harry S. Truman
 cross tab,Avg_Educational,
 cross tab,Avg_Educational,
@@ -6245,10 +6245,10 @@ cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
 cross tab,Vice_President,
-cross tab,Vice_President,""""""
-cross tab,Vice_President,""""""
-cross tab,Vice_President,""""""
-cross tab,Vice_President,""""""
+cross tab,Vice_President,
+cross tab,Vice_President,
+cross tab,Vice_President,
+cross tab,Vice_President,
 cross tab,Vice_President,Aaron Burr George Clinton
 cross tab,Vice_President,Adlai Stevenson
 cross tab,Vice_President,Al Gore
@@ -7561,7 +7561,7 @@ cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
-cross tab,_Null_,""""""
+cross tab,_Null_,
 cross tab,_Null_,Abraham Lincoln
 cross tab,_Null_,Andrew Jackson
 cross tab,_Null_,Andrew Johnson
@@ -7749,49 +7749,49 @@ cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
 cross tab,_____________,
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
-cross tab,_____________,""""""
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
+cross tab,_____________,
 cross tab,_____________,John Adams
 cross tab,presidentNo,
 cross tab,presidentNo,
@@ -26434,13 +26434,13 @@ text to columns,2,
 text to columns,2,E
 text to columns,2,E
 text to columns,2,]S(
-text to columns,Address,""""""
-text to columns,Address,""""""
-text to columns,Address,""""""
-text to columns,Address,""""""
-text to columns,Address,""""""
-text to columns,Address,"""""""6426"""
-text to columns,Address,"""'80210"""""""
+text to columns,Address,
+text to columns,Address,
+text to columns,Address,
+text to columns,Address,
+text to columns,Address,
+text to columns,Address,"6426"""
+text to columns,Address,"""'80210"
 text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
 text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
 text to columns,Address,"""St.Denver.CO'"""
@@ -26518,7 +26518,7 @@ text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
-text to columns,Address2,""""""
+text to columns,Address2,
 text to columns,Address2,"""St.Denver.CO' '80210""""-""""6426"""
 text to columns,Address2,E
 text to columns,Address3,
@@ -26548,7 +26548,7 @@ text to columns,Address3,
 text to columns,Address3,
 text to columns,Address3,
 text to columns,Address3,
-text to columns,Address3,""""""
+text to columns,Address3,
 text to columns,Address3,5th
 text to columns,Address4,
 text to columns,Address4,
@@ -26577,7 +26577,7 @@ text to columns,Address4,
 text to columns,Address4,
 text to columns,Address4,
 text to columns,Address4,
-text to columns,Address4,""""""
+text to columns,Address4,
 text to columns,Address4,Ave.Denver.CO
 text to columns,Address5,
 text to columns,Address5,
