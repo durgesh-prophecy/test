@@ -7562,6 +7562,10 @@ cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
 cross tab,_Null_,
+<<<<<<< HEAD
+=======
+cross tab,_Null_,
+>>>>>>> main
 cross tab,_Null_,Abraham Lincoln
 cross tab,_Null_,Andrew Jackson
 cross tab,_Null_,Andrew Johnson
@@ -26439,10 +26443,18 @@ text to columns,Address,
 text to columns,Address,
 text to columns,Address,
 text to columns,Address,
+<<<<<<< HEAD
 text to columns,Address,"""6426"
 text to columns,Address,"'80210"""
 text to columns,Address,"2753[ ]S( )Milwaukee St.Denver.CO' '80210""-""6426"
 text to columns,Address,"2753[ ]S( )Milwaukee St.Denver.CO' '80210""-""6426"
+=======
+text to columns,Address,"6426"""
+text to columns,Address,"""'80210"
+text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
+text to columns,Address,"""2753[ ]S( )Milwaukee St.Denver.CO' '80210""""-""""6426"""
+text to columns,Address,"""St.Denver.CO'"""
+>>>>>>> main
 text to columns,Address,)Milwaukee
 text to columns,Address,1507
 text to columns,Address,16911
@@ -26519,7 +26531,11 @@ text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
 text to columns,Address2,
+<<<<<<< HEAD
 text to columns,Address2,"St.Denver.CO' '80210""-""6426"
+=======
+text to columns,Address2,"""St.Denver.CO' '80210""""-""""6426"""
+>>>>>>> main
 text to columns,Address2,E
 text to columns,Address3,
 text to columns,Address3,
